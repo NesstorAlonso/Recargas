@@ -1,0 +1,59 @@
+﻿
+@{
+    Layout = null;
+    ViewData["Title"] = "Salir";
+}
+
+<!doctype html>
+<html class="no-js " lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+
+    <title>Iniciar sesion</title>
+    <!-- Favicon-->
+    @*<link rel="icon" href="~/assets/images/LogoRE.png" type="image/x-icon">*@
+    <link rel="stylesheet" href="~/assets/plugins/bootstrap/css/bootstrap.min.css">
+
+    <!-- Custom Css -->
+    <link rel="stylesheet" href="~/assets/css/main.css">
+    <link href="~/assets/plugins/sweetalert/sweetalert2.min.css" rel="stylesheet" />
+    <link href="~/css/Loader.css" />
+</head>
+<body class="theme-black">
+    <div class="authentication" id="imgB">
+
+    
+    </div>
+
+
+
+
+    <!-- Jquery Core Js -->
+    <script src="~/assets/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets/bundles/vendorscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js -->
+    <script src="~/js/Validacion.js"></script>
+    <script src="~/assets/plugins/sweetalert/sweetalert2.min.js"></script>
+
+    <script type="text/javascript">
+        $(window).load(function () {
+            $(".loader").fadeOut("slow");
+        });
+    </script>
+    <script>
+        window.onload = function () {
+            var backImg = ['../assets/images/Img1.jpg', '../assets/images/Img2.jpg', '../assets/images/Img3.jpg', '../assets/images/Img4.jpeg', '../assets/images/Img5.jpg', '../assets/images/Img6.jpg', '../assets/images/Img7.jpg'];
+            var today = new Date();
+            var day = Math.floor(today / 8.64e7);
+            document.getElementById('imgB').style.backgroundImage = 'url(' + backImg[day % 7] + ')';
+
+            console.log(backImg);
+
+        }
+    </script>
+
+
+</body>
+</html>
