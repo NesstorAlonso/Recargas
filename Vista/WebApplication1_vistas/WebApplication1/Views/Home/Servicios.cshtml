@@ -1,0 +1,359 @@
+﻿
+@{
+    ViewData["Title"] = "Servicios";
+}
+
+    <div class="container">
+        <div class="col-lg-5 col-md-5 col-sm-12">
+            <h2>Pago de servicios</h2>
+        </div>
+
+        <!-- ORDENAMIENTO-->
+        <div class="row clearfix">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="body">
+                        <ul class="form-inline mr-auto">
+                            <div class="form-inline mr-auto search">
+                                <input type="text" id="busqueda" class="form-control" placeholder="Buscar">
+                                <button class="form-control" type="submit"><i class="zmdi zmdi-search"></i></button>
+                            </div>                        
+                          
+                            @*<button class="btn btn-mdb-color btn-rounded btn-sm my-0 ml-sm-2" type="submit">Buscar <i class="zmdi zmdi-search"></i></button>*@
+                            @*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*@
+                            <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalConsultarReferencia">
+                                <button class="btn btn-mdb-color btn-rounded btn-sm my-0 ml-sm-2" type="submit">Consultar Pago <i class="zmdi zmdi-money-box"></i></button>
+                            </a>
+                        </ul>
+                        
+                       
+                    </div>
+                   
+                </div>
+                @*<div class="card">
+                    <div class="body">
+                        <ul class="nav nav-tabs col-lg-12 col-md-12 col-sm-12">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#All">Todos los servicios</a></li><br />
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Transporte">Transporte</a></li><br />
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Telefonia">Telefonía y televisión</a></li><br />
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Gobierno">Gobierno</a></li><br />
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Venta">Venta por catálogo</a></li><br />
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Servicios">Servicios domésticos</a></li><br />
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Envios">Envíos   </a></li>
+                        </ul>
+                    </div>
+                </div>*@
+                <div class="tab-content">
+                    @*<div id="mostrarResultado">
+
+                    </div>*@
+                    <div class="tab-pane active" id="All">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">megacable</h3>
+                                <div class="card">
+                                    <div class="file">                                        
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalMegacable">
+                                                    <img src="~/assets/images/servicios/megacable.png" alt="Servicio 1" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">cfe</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalCfe">
+                                                    <img src="~/assets/images/servicios/cfe.png" alt="Servicio 2" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">sky</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal4">
+                                                    <img src="~/assets/images/servicios/sky.png" alt="Servicio 3" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">izzi</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalIzzi">
+                                                    <img src="~/assets/images/servicios/izzi.png" alt="Servicio 4" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">oriflame</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalOriflame">
+                                                    <img src="~/assets/images/servicios/oriflame.png" alt="Servicio 5" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--servicio att-->
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">att</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#modalServicioATT">
+                                                    <img src="~/assets/images/servicios/servicio6.png" alt="Servicio 6" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--fin servicio att-->
+                            <!--servicio avon-->
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">avon</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#modalServicioAvon">
+                                                    <img src="~/assets/images/servicios/avon.png" alt="Servicio 7" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--fin avon-->
+                            <!--infonavit-->
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">infonavit</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#modalServicioInfonavit">
+                                                    <img src="~/assets/images/servicios/servicio12.png" alt="Servicio 12" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--fin infonavit-->
+                            <!--telmex-->
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">telmex</h3>
+                                <div class="card">
+                                    <div class="file">                                        
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#modalServicioTelmex">
+                                                    <img src="~/assets/images/servicios/servicio13.png" alt="Servicio 13" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--fin telmex-->
+                            <!--dish-->
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <h3 style="display: none;">dish</h3>
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#modalServicioDish">
+                                                    <img src="~/assets/images/servicios/servicio14.png" alt="Servicio 14" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--fin dish-->
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="Transporte">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal4">
+                                                    <img src="~/assets/images/servicios/servicio9.png" alt="Servicio 9" class="img-fluid mx-auto">
+                                                </a>
+
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal5">
+                                                    <img src="~/assets/images/servicios/servicio11.png" alt="Servicio 11" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="Telefonia">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal2">
+                                                    <img src="~/assets/images/servicios/servicio6.png" alt="Servicio 6" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="Gobierno">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal1">
+                                                    <img src="~/assets/images/servicios/servicio1.png" alt="Servicio 1" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal1">
+                                                    <img src="~/assets/images/servicios/servicio2.png" alt="Servicio 2" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal1">
+                                                    <img src="~/assets/images/servicios/servicio3.png" alt="Servicio 1" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="Venta">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal1">
+                                                    <img src="~/assets/images/servicios/servicio5.png" alt="Servicio 5" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                    
+                    <div class="tab-pane" id="Envios">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="card">
+                                    <div class="file">
+                                        <a href="javascript:void(0);">
+                                            @*<div class="image">*@
+                                            <div class="body">
+                                                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModal2">
+                                                    <img src="~/assets/images/servicios/servicio4.png" alt="Servicio 4" class="img-fluid mx-auto">
+                                                </a>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- -->
+
+    </div>
+

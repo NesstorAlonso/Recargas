@@ -1,0 +1,177 @@
+﻿
+@{
+    ViewData["Title"] = "Distribuidores";
+}
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+
+<script src="~/js/Usuario2.js"></script>
+
+
+<div class="container">
+    <div class="block-header">
+        <h2><strong>Mis distribuidores</strong></h2>
+    </div>
+    <div class="body">
+        <ul class="form-inline mr-auto">
+            <div class="form-inline mr-auto search">
+                <h4><strong class="block-header user_earnings">Clientes de <span id="spanPad"></span></strong></h4>
+            </div>
+            <a href="#defaultModal" data-toggle="modal" data-target="#modalCliente">
+                <button class="btn btn-success btn-round" id="btnAgregarDistri">Agregar Cliente <i class="zmdi zmdi-plus"></i> </button>
+            </a>
+        </ul>
+    </div>
+    <strong class="block-header user_earnings"><span id="nombreHijo1"></span></strong><span id="nombreHijo2"></span><span id="nombreHijo3"></span><span id="nombreHijo4"></span><span id="nombreHijo5"></span>
+
+
+    @*<div class="card">
+        <div class="body">
+            <strong>Busqueda por filtros:</strong><hr />
+            <div class="row">
+                <div class="col-md-1">
+                    <label style="margin-left: 40px; margin-top:10px">Buscar:</label>
+
+                </div>
+                <div class="col-md-10">
+
+                    <div class="input-group">
+                        <input type="text" placeholder="Buscar" onkeyup="doSearch();" title="Escribe el nombre de la falla" class="form-control" id="txtBuscar">
+                    </div>
+
+                </div>
+
+            </div>
+            Buscador
+            <div class="form-inline">
+
+
+            </div>
+
+        </div>
+    </div>*@
+
+    <div class="card">
+        <div class="body">
+            <div class="row clearfix">
+                <div class="col-lg-3">
+                    <button type="button" id="Arriba" class="btn btn-default btn-round"><i class="zmdi zmdi-replay"></i></button>
+                    <button type="button" id="Elimi" class="btn btn-default btn-round">Eliminados</button>
+
+                </div>
+            
+            </div>
+            
+            <div class="row clearfix col-lg-12">
+
+                <div class="col-md-3">
+
+
+                </div>
+
+                <div class="col-md-1">
+                    <label style="margin-left: 40px; margin-top:10px">Buscar:</label>
+
+
+                </div>
+                <div class="col-md-8">
+
+                    <div class="input-group">
+                        <input type="text" placeholder="Buscar" onkeyup="doSearch();" title="Escribe el nombre de la falla" class="form-control" id="txtBuscar">
+                    </div>
+
+                </div>
+
+
+            </div>
+
+            <div class="row clearfix">
+
+
+                <div class="table-responsive col-lg-12">
+
+                    <table class="table table-bordered table-striped table-hover dataTable" id="tbANUsers">
+                        <thead>
+                            <tr>
+
+                                <th>Compañia</th>
+                                <th>Usuario</th>
+                                <th>Cliente</th>
+                                <th>Telefono</th>
+                                <th>Contacto</th>
+                                <th>Email</th>
+                                <th>Saldo</th>
+                                <th>Hijos</th>
+                                <th>Editar</th>
+                                <th>Baja</th>
+                            </tr>
+                        </thead>
+                        @*<tfoot>
+                    <tr>
+                        <th>ID Carrier</th>
+                        <th>Carrier</th>
+                        <th>Comision</th>
+                        <th>Unidad</th>
+                    </tr>
+                    </tfoot>*@
+                        <tbody>
+                            <tr>
+
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                @*<td>1</td>
+                            <td>ZonaInt</td>
+                            <td>zonaint</td>
+                            <td>$0.00</td>
+                            <td>Arturo</td>
+                            <td>2787388006</td>
+                            <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-sort-amount-desc"></i></button></td>
+                            <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-card"></i></button></td>
+                            <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-balance"></i></button></td>
+                            <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-edit"></i></button></td>*@
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbEliminados">
+                        <thead>
+                            <tr>
+                                <th>Compañia</th>
+                                <th>Usuario</th>
+                                <th>Cliente</th>
+                                <th>Telefono</th>
+                                <th>Contacto</th>
+                                <th>Email</th>
+                                <th>Saldo</th>
+                                <th>Alta</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+<style>
+    .dd-hover > .dd-handle {
+        background: #2ea8e5 !important;
+    }
+</style>

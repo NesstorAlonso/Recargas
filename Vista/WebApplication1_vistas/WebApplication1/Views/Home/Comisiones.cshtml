@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewData["Title"] = "Comisiones";
+}
+
+    <div class="container">
+        <div class="block-header">
+            <h2><strong>Comisiones Recargas</strong></h2>
+        </div>
+        <div class="card">
+            <div class="form-inline">
+                <div class="body">
+                    <strong>Saldo actual:</strong>
+                    <br />
+                    <strong>Comision en porcentaje:</strong>
+                    <br />
+                    <strong>Comision en pesos:</strong>
+                    <br />
+                    <strong>Total con comision:</strong>
+                    <br />
+                    <strong>Equivalencia de comision:</strong>
+                </div>
+                <div class="body">
+                    <strong class="align-right" id="SaldoAComisionR"></strong>
+                    <br />
+                    <strong id="ComisionPorcentaje"></strong><strong>%</strong>
+                    <br />
+                    <strong id="ComisionPesos"></strong>
+                    <br />
+                    <strong id="ComisionTotal"></strong>
+                    <br />
+                    <strong id="EqComision"></strong><strong>%</strong>
+                </div>
+            </div>
+        </div>
+        @*<div class="card">
+            <div class="body">
+                <strong>Saldo actual:</strong> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<strong class="align-right" id="SaldoAComisionR"></strong>
+                <br />
+                <strong>Comision en porcentaje:</strong>&emsp;&nbsp;<strong id="ComisionPorcentaje">5</strong><strong>%</strong>
+                <br />
+                <strong>Comision en pesos:</strong>&emsp;&emsp;&emsp;&nbsp;&nbsp;<strong id="ComisionPesos"></strong>
+                <br />
+                <strong>Total con comision:</strong>&emsp;&emsp;&emsp;&emsp;<strong id="ComisionTotal"></strong>
+                <br />
+                <strong>Equivalencia de comision:</strong>&nbsp;&nbsp;<strong id="EqComision"></strong><strong>%</strong>
+            </div>
+        </div>*@
+        <label><strong>Suma recargas:</strong></label>
+        &emsp;&emsp;&emsp;&emsp;&emsp;
+        <label><strong>Suma comision:</strong></label> <br />
+        <button type="button" id="HoyComisionRecarga" class="btn btn-success btn-round waves-effect align-center" @*style="background:#8CBA37;*@><i class="zmdi zmdi-filter-list"></i> Hoy</button>
+        <button type="button" id="HistorialComisionRecarga" class="btn btn-success btn-round waves-effect align-center" @*style="background:#8CBA37;*@><i class="zmdi zmdi-view-list-alt"></i> Historial</button>
+        <div class="card">
+            <div class="body">
+                <div class="row clearfix">
+                    <div class="table-responsive col-lg-12">
+                        @*<button type="button" id="Arriba" class="btn btn-default btn-round"><i class="zmdi zmdi-replay"></i></button>
+                        <button type="button" id="Elimi" class="btn btn-default btn-round">Eliminados</button>*@
+                        <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbMovimientosComisiones">
+                            <thead>
+                                <tr>
+                                    <th>No</th>
+                                    <th>Saldo inicial</th>
+                                    <th>Recargas</th>
+                                    <th>Eq. Comision</th>
+                                    <th>Utilidad x recarga</th>
+                                    <th>Costo recarga</th>
+                                    <th>Transferencia/Abonos</th>
+                                    <th>Pago Servicio</th>
+                                    <th>Comision Servicio</th>
+                                    <th>Saldo final</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

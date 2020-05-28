@@ -1,0 +1,408 @@
+﻿
+@{
+    ViewData["Title"] = "EditarUsuario";
+}
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.10/jquery.mask.js"></script>
+<script>
+    $('.phone_with_ddd').mask('(000) 000-00-00');
+</script>
+
+<div class="modal-content">
+    <div class="col-lg-14 col-md-14 col-sm-14">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="card">
+                <div class="container">
+                    <div class="col-lg-12 col-md-12 user_earnings" align="center">
+                        <h4>Editar Usuario</h4>
+                    </div>
+                    <div class="block-header">
+                        <h2><strong>Datos</strong> personales</h2>
+                    </div>
+                    <div class="card">
+                        <div class="body">
+                            <div class="demo-masked-input">
+                                <div class="row clearfix">
+                                    <div class="col-lg-6 col-md-12">
+                                        <p class="my-2">Tipo de Persona :</p>
+                                        <select class="form-control show-tick" id="TipoPer">
+                                            <option value="" disabled selected>Seleccione</option>
+                                            <option value="1">Fisica</option>
+                                            <option value="0">Moral</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Nombre: *</p>
+                                            <input type="text" id="NombreHijo" class="form-control" placeholder="Nombre" required minlength="3">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Apellido paterno: *</p>
+                                            <input type="text" class="form-control" required placeholder="Apellido paterno" id="APellidoPater" minlength="3">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Apellido materno: *</p>
+                                            <input type="text" class="form-control" required placeholder="Apellido materno" id="APellidoMater" minlength="3">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <p class="my-2">Fecha de nacimiento: *</p>
+                                        <div class="input-group form-float">
+                                            <span class="input-group-addon"><i class="zmdi zmdi-calendar"></i> </span>
+                                            <input type="date" id="FechaNacimi" class="form-control" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">RFC: *</p>
+                                            <input type="text" class="form-control" required placeholder="AAAA000000AA0" id="RFCHijo" minlength="3">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <p class="my-2">Genero :</p>
+                                        <select class="form-control show-tick" id="GeneroHijo">
+                                            <option value="" disabled selected>Seleccione</option>
+                                            <option value="1">Masculino</option>
+                                            <option value="0">Femenino</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <p class="my-2">Teléfono :</p>
+                                        <div class="input-group">
+                                            <span class="input-group-addon"><i class="zmdi zmdi-phone"></i></span>
+                                            <input type="text" class="phone_with_ddd  form-control" placeholder="Ex: +00 (000) 000-00-00" id="strTelefono">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <p class="my-2">Compañia telefónica :</p>
+                                        <select class="form-control show-tick" id="CompaniaHijo">
+                                            <option value="" disabled selected></option>
+                                            <option value="Telcel">TELCEL</option>
+                                            <option value="Att">AT&T</option>
+                                            <option value="Movistar">MOVISTAR</option>
+                                            <option value="Unefon">UNEFON</option>
+                                            <option value="VirginMobile">VIRGIN MOBILE</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+                    <div class="block-header">
+                        <h2><strong>Dirección</strong></h2>
+                    </div>
+                    <div class="card">
+                        <div class="body">
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Código postal: *</p>
+                                    <div class="form-group form-float">
+                                        <input type="text" class="form-control" placeholder="Código Postal" id="CPHijo">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Estado: *</p>
+                                    <select class="form-control show-tick" id="EstadoHijo">
+                                        <option value="" disabled selected>Seleccione</option>
+                                        <option value="Aguascalientes">Aguascalientes</option>
+                                        <option value="BajaCaliforniaNorte">Baja California</option>
+                                        <option value="BajaCaliforniaSur">Baja California Sur</option>
+                                        <option value="Campeche">Campeche</option>
+                                        <option value="Chiapas">Chiapas</option>
+                                        <option value="Chihuahua">Chihuahua</option>
+                                        <option value="Cdmx">Ciudad de México</option>
+                                        <option value="Coahuila">Coahuila</option>
+                                        <option value="Colima">Colima</option>
+                                        <option value="Durango">Durango</option>
+                                        <option value="Guanajuato">Guanajuato</option>
+                                        <option value="Guerrero">Guerrero</option>
+                                        <option value="Hidalgo">Hidalgo</option>
+                                        <option value="Jalisco">Jalisco</option>
+                                        <option value="Mexico">México</option>
+                                        <option value="Michoacan">Michoacán</option>
+                                        <option value="Morelos">Morelos</option>
+                                        <option value="Nayarit">Nayarit</option>
+                                        <option value="NL">Nuevo León</option>
+                                        <option value="Oaxaca">Oaxaca</option>
+                                        <option value="Puebla">Puebla</option>
+                                        <option value="Queretaro">Querétaro</option>
+                                        <option value="Qroo">Quintana Roo</option>
+                                        <option value="SLP">San Luis Potosí</option>
+                                        <option value="Sinaloa">Sinaloa</option>
+                                        <option value="Sonora">Sonora</option>
+                                        <option value="Tabasco">Tabasco</option>
+                                        <option value="Tamaulipas">Tamaulipas</option>
+                                        <option value="Tlaxcala">Tlaxcala</option>
+                                        <option value="Veracruz">Veracruz</option>
+                                        <option value="Yucatan">Yucatán</option>
+                                        <option value="Zacatecas">Zacatecas</option>
+                                    </select>
+                                </div>
+
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Municipio / Delegación: </p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control form-float" placeholder="Municipio / Delegación" required id="MunicipioHijo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Colonia: </p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control form-float" placeholder="Colonia" id="ColoniaHijo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Tipo de vialidad: </p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control form-float" placeholder="Tipo de vialidad" id="VialidadHijo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Calle: </p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control form-float" placeholder="Calle" id="CalleHijo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Número exterior: *</p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control form-float" placeholder="Número exterior" required id="NEHijo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2"> Número interior: </p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control form-float" placeholder="Número interior" id="NIHijo">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="block-header">
+                        <h2><strong>Datos</strong> generales</h2>
+                    </div>
+                    <div class="card">
+                        <div class="body">
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Contacto: </p>
+                                    <div class="form-group form-float">
+                                        <input type="text" class="form-control" placeholder="Contacto" required id="ContactoHijo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="my-2">Comercio: </p>
+                                    <div class="form-group form-float">
+                                        <input type="text" class="form-control" placeholder="Comercio" required id="ComercioHijo">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="block-header">
+                            <h2><strong>Alertas</strong> notificación</h2>
+                        </div>
+                        <div class="card">
+                            <div class="body">
+                                <div id="Notificaciones" class="row clearfix">
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <div id="NotiCorreo" class="checkbox">
+                                                <input id="checkbox_NC" type="checkbox" class="form-control" name="Notificaciones[]" value="NotificacionCompraPorCorreo">
+                                                <label for="checkbox_NC">Notificación de compra por correo</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <div id="NotiSMS" class="checkbox">
+                                                <input id="checkbox_NSms" type="checkbox" class="form-control" name="Notificaciones[]" value="NotificacionCompraPorSMS">
+                                                <label for="checkbox_NSms">Notificación de compra por SMS</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div id="AlertaSMS" class="form-group form-float">
+                                            <div class="checkbox">
+                                                <input id="checkbox_AlertaSms" type="checkbox" class="form-control" name="Notificaciones[]" value="AlertaSaldoMinimoPorSMS">
+                                                <label for="checkbox_AlertaSms">Alerta saldo mínimo por SMS</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-12">
+                                        <div class="input-group form-float">
+                                            <span class="input-group-addon"><i class="zmdi zmdi-money"></i></span>
+                                            <input id="MontoAlertasModal" type="number" class="form-control" name="calertas" required placeholder="Saldo minimo (en caso de dejar vacio ingresar: 0)">
+                                            @*<div class="help-info">Solo valores numéricos</div>*@
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="TituloComp" class="block-header">
+                            <h2><strong>Complementos</strong></h2>
+                        </div>
+                        <div class="card">
+                            <div class="body">
+                                <div id="Complemento" class="row clearfix">
+                                    <div class="col-lg-4 col-md-12">
+                                        <div class="form-group">
+                                            <div id="CrearC" class="checkbox">
+                                                <input id="checkbox_crcHijo" type="checkbox" class="form-control" name="Acciones[]" value="CrearClientes">
+                                                <label for="checkbox_crcHijo">Crear clientes</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-12">
+                                        <div class="form-group">
+                                            <div id="CrearU" class="checkbox">
+                                                <input id="checkbox_cruHijo" type="checkbox" class="form-control" name="Acciones[]" value="CrearUsuarios">
+                                                <label for="checkbox_cruHijo">Crear usuarios</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-12">
+                                        <div class="form-group">
+                                            <div id="DepoM" class="checkbox">
+                                                <input id="checkbox_dmHijo" type="checkbox" class="form-control" name="Acciones[]" value="DepositosMultinivel">
+                                                <label for="checkbox_dmHijo">Depósitos multinivel</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="block-header">
+                            <h2><strong>Comisión</strong></h2>
+                        </div>
+
+
+
+                        <div class="card">
+                            <div class="body">
+                                <div class="row clearfix">
+                                    <div class="table-responsive col-lg-12">
+                                        <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbComision">
+                                            <thead>
+                                                <tr>
+                                                    <th>Sku</th>
+                                                    <th>Concepto</th>
+                                                    <th>Comision</th>
+                                                    <th>Unidad</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>0</td>
+                                                    <td>TIEMPO AIRE</td>
+                                                    <td>6</td>
+                                                    <td>%</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="help-info">* Datos obligatorios</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <ul class="form-inline mr-auto">
+            <button class="btn btn-success btn-round" id="btnEditarUsuarioshijos">Editar Cambios <i class="zmdi zmdi-floppy"></i> </button>
+            <a asp-area="" asp-controller="Home" asp-action="Distribuidores">
+                <button class="btn btn-danger btn-round" id="btnCancelarHijos">Cancelar</button>
+            </a>
+        </ul>
+    </div>
+</div>
+<script>
+    var hijoId = localStorage.getItem('idEditHijo');
+    // console.log('hola');
+    $.ajax({
+        type: 'GET',
+        url: rutaServidor + 'ConsultaHijos/mtdObtenerPorIdHijosInfo?Id=' + hijoId,
+        datatype: 'json',
+        success: function (response) {
+            var tipo = response[0].bitTipoPersona;
+            console.log(tipo);
+            if (tipo) {
+                //$("#TipoPer").val("Fisica");
+                // $("#TipoPer option[value=" + true + "]").attr("selected", true);
+                //$("#TipoPer").append("<option  value='" + true + "'>" + "Fisica" + "</option>");
+                // $('TipoPer option[value="true"]').attr("selected", true);
+                //$("#TipoPer").val("Fisica");
+
+                //$(document).ready(function () {
+                //    $("#TipoPer").val("true");
+                //     $("#TipoPer").selectpicker('refresh');
+                //});
+
+                //$("#TipoPer").selectpicker('refresh');
+            }
+            else {
+                $("#TipoPer").val("Fisica").trigger("change");
+                //                $("#TipoPer").append("<option  value='" + true + "'>" + "Fisica" + "</option>");
+                // $("#TipoPer option[value=" + false + "]").attr("selected", true);
+                $("#TipoPer").selectpicker('refresh');
+            }
+            //console.log(response);
+            //$("#TipoPer").val(response[0].bitTipoPersona);
+            $("#NombreHijo").val(response[0].strNombre);
+            $("#APellidoPater").val(response[0].strApaterno);
+            $("#APellidoMater").val(response[0].strAmaterno);
+            $("#FechaNacimi").val(response[0].dtmFechaNacimiento);
+            $("#RFCHijo").val(response[0].strRfc);
+            //$("#GeneroHijo").val(response[0].bitGenero);
+            //$("#CompaniaHijo").val(response[0].strCompania);
+            $("#CPHijo").val(response[0].strCp);
+            //$("#EstadoHijo").val(response[0].strEstado);
+            $("#MunicipioHijo").val(response[0].strMunicipio);
+            $("#ColoniaHijo").val(response[0].strColonia);
+            $("#VialidadHijo").val(response[0].strTVialidad);
+            $("#CalleHijo").val(response[0].strCalle);
+            $("#NEHijo").val(response[0].strNumExt);
+            $("#NIHijo").val(response[0].strNumInt);
+            $("#ContactoHijo").val(response[0].strContacto);
+            $("#ComercioHijo").val(response[0].strComercio);
+
+            localStorage.setItem("UserHijos", response[0].userName);
+            localStorage.setItem("IdComision", response[0].id);
+            //console.log(localStorage.getItem('UserHijos'));
+            AccionesHijos();
+            AccionesEliminarHijos();
+            llenarComisiones();
+            NotificacionesEliminarHijos();
+            NotificacionesHijos();
+        },
+        error: function () {
+
+        }
+
+    });
+</script>

@@ -1,0 +1,46 @@
+
+GetTResquestID,request,2/10/2019 17:5:43:375,recelectronicas,WRVqk1DM,,,,;
+response,17:5:43:452,3e85cac863ed4fdbbe38878c7890f3c5;
+
+DoT,request,2/10/2019
+17:5:43:452,recelectronicas,3e85cac863ed4fdbbe38878c7890f3c5,001000000300A,5560788563,300;
+response, 2/10/2019 17:5:45:43,5560788563,,2,EN_PROCESO,3908;
+
+CheckTransaction,request,2/10/2019 17:5:45:45,recelectronicas,3e85cac863ed4fdbbe38878c7890f3c5,,,,;
+response,2/10/2019 17:5:46:133,5560788563,953687,0,Transaccion Aprobada,3908;
+
+GetTResquestID,request,2/10/2019 17:9:41:556,recelectronicas,WRVqk1DM,,,,;
+response,17:9:41:667,d6a059b6677c4f5480b0683b9504fc95;
+
+DoT,request,2/10/2019
+17:9:41:673,recelectronicas,d6a059b6677c4f5480b0683b9504fc95,001000000300A,5560788563,300;
+response, 2/10/2019 17:9:44:594,5560788563,,2,EN_PROCESO,3909;
+
+CheckTransaction,request,2/10/2019 17:9:44:597,recelectronicas,d6a059b6677c4f5480b0683b9504fc95,,,,;
+response,2/10/2019 17:9:44:667,5560788563,788563,99,Recarga NO Realizada,3909;
+
+CheckTransaction,request,2/10/2019 17:9:51:685,recelectronicas,d6a059b6677c4f5480b0683b9504fc95,,,,;
+response,2/10/2019 17:9:51:687,5560788563,788563,99,Recarga NO Realizada,3909;
+
+GetTResquestID,request,2/10/2019 17:41:20:650,recelectronicas,WRVqk1DM,,,,;
+response,17:41:20:718,8cae22d54a5a451faba6994d99680802;
+
+DoT,request,2/10/2019
+17:41:20:720,recelectronicas,8cae22d54a5a451faba6994d99680802,001000000300A,5560788563,300;
+response, 2/10/2019 17:41:22:336,5560788563,,2,EN_PROCESO,3910;
+
+CheckTransaction,request,2/10/2019 17:41:22:351,recelectronicas,8cae22d54a5a451faba6994d99680802,,,,;
+response,2/10/2019 17:41:22:917,5560788563,788563,99,Recarga NO Realizada,3910;
+
+CheckTransaction,request,2/10/2019 17:41:22:919,recelectronicas,8cae22d54a5a451faba6994d99680802,,,,;
+response,2/10/2019 17:41:22:920,5560788563,788563,99,Recarga NO Realizada,3910;
+
+GetTResquestID,request,2/10/2019 17:42:21:32,recelectronicas,WRVqk1DM,,,,;
+response,17:42:22:411,946b02e84701400ebc89909f3d6cf1fa;
+
+DoT,request,2/10/2019
+17:42:22:413,recelectronicas,946b02e84701400ebc89909f3d6cf1fa,001000000300A,5560788563,300;
+response, 2/10/2019 17:42:24:34,5560788563,,2,EN_PROCESO,3911;
+
+CheckTransaction,request,2/10/2019 17:42:24:38,recelectronicas,946b02e84701400ebc89909f3d6cf1fa,,,,;
+response,2/10/2019 17:42:25:105,5560788563,788563,99,Recarga NO Realizada,3911;

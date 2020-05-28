@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "Abonos";
+}
+
+<section class="content">
+    <div class="container">
+        <div class="block-header">
+            <div class="row clearfix">
+                <div class="col-lg-5 col-md-5 col-sm-12">
+
+                </div>
+
+            </div>
+        </div>
+        <div class="row clearfix">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="card">
+                    <div class="header">
+                    </div>
+                    <form id="form_advanced_validation">
+                        <div class="align-center">
+                            <div class="input-group">
+                                <span class="input-group-addon">
+                                    <i class="zmdi zmdi-calendar align-center"></i>
+                                </span>
+                                <input type="text" class="form-control datetimepicker align-center" placeholder="Porfavor seleccione fecha y hora(opcional)...">
+                            </div>
+                        </div>
+                        <div class="body table-responsive">
+                            <table class="table m-b-0 align-center">
+                                <thead>
+                                    <tr>
+                                        <p>@DateTime.Now.Date</p>
+                                        <th>No hay registros para mostrar</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                        <div class="card">
+                            <button type="reset" class="btn btn-success btn-round waves-effect align-center" style="background:#8CBA37;"><i class="zmdi zmdi-refresh"></i> Actualizar</button>
+                            <button type="button" class="btn btn-success btn-round waves-effect align-center" style="background:#8CBA37;"><i class="zmdi zmdi-cloud-download"></i> Descargar Excel</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</section>
+

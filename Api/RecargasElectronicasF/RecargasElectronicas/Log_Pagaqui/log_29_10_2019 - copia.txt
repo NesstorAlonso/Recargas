@@ -1,0 +1,14 @@
+
+GetTResquestID,request,29/10/2019 13:13:27:42,recelectronicas,WRVqk1DM,,,,;
+response,13:13:27:96,4bccd04869cb41deb8cf16a4aca0266a;
+
+DoT,request,29/10/2019
+13:13:27:101,recelectronicas,4bccd04869cb41deb8cf16a4aca0266a,DEMOQ0S10SKY0A,501202017726,200;
+response, 29/10/2019 13:13:28:719,501202017726,934289,0,Transaccion Aprobada,2061851885;
+
+GetTResquestID,request,29/10/2019 13:17:38:400,recelectronicas,WRVqk1DM,,,,;
+response,13:17:38:448,c7ddce65576f430cafd76f4af62082a3;
+
+DoT,request,29/10/2019
+13:17:38:453,recelectronicas,c7ddce65576f430cafd76f4af62082a3,DEMOQ0S10IZZI0A,98887775,300;
+response, 29/10/2019 13:17:39:543,98887775,529368,0,Transaccion Aprobada,2061851886;

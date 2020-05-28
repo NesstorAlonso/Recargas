@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "Movimientos";
+}
+
+    <div class="container">
+        <div class="block-header">
+            <h2><strong>Mis Movimientos</strong></h2>
+        </div>
+        <div class="card">
+            <div class="body">
+                <strong>Busqueda por filtros:</strong></br>
+                @*Buscador*@
+                <div class="form-inline">
+                    <label>Actual:</label>
+                    <select id="slcdia" class="col-lg-2">
+                        <option value="">seleccione</option>
+                        <option value="Hoy">Hoy</option>
+                        <option value="ayer">Ayer</option>
+                    </select>
+                    <label>Mes:</label>
+                    <select id="slcMes" class="col-lg-3">
+                        <option value="">Seleccione mes</option>
+                        <option value="1">Enero 2020</option>
+                        <option value="2">Febrero 2020</option>
+                        <option value="3">Marzo 2020</option>
+                        <option value="4">Abril 2020</option>
+                        <option value="5">Mayo 2020</option>
+                        <option value="6">Junio 2020</option>
+                        <option value="7">Julio 2020</option>
+                        <option value="8">Agosto 2020</option>
+                    </select>
+                    <label>Por Tipo:</label>
+                    <select id="slcTipo" class="col-lg-3">
+                        <option value="">Seleccione tipo</option>
+                        <option value="User">Usuario</option>
+                        <option value="Refe">Referencia</option>
+                        <option value="Tel">Telefono</option>
+                        <option value="Tipo">Tipo</option>
+                    </select>
+                    <input type="text" id="busqTipo" class="form-control" required minlength="3" placeholder="Ingrese valor">
+                </div>
+
+            </div>
+        </div>
+        <div class="card">
+            <div class="body">
+                <div class="row clearfix">
+                    <div class="table-responsive col-lg-12">
+                        @*<button type="button" id="Arriba" class="btn btn-default btn-round"><i class="zmdi zmdi-replay"></i></button>
+                        <button type="button" id="Elimi" class="btn btn-default btn-round">Eliminados</button>*@
+                        <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbMovimientos">
+                            <thead>
+                                <tr>
+                                    <th>Fecha Hora</th>
+                                    <th>Usuario</th>
+                                    <th>Referencia</th>
+                                    <th>Telefono</th>
+                                    <th>Monto</th>
+                                    <th>Tipo</th>
+                                    <th>Folio</th>
+                                    <th>Detalles</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<style>
+    .dd-hover > .dd-handle {
+        background: #2ea8e5 !important;
+    }
+</style>

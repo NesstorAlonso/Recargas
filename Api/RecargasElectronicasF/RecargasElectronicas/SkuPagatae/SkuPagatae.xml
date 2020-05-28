@@ -1,0 +1,164 @@
+<root>
+  <product>
+    <name>DATOS TELCEL $10 pesos</name>
+    <sku>PA10</sku>
+    <monto>10</monto>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name> Telcel 10 </name>
+    <sku>001000000010A</sku>
+    <monto>10</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 1 dias</info>
+  </product>
+  <product>
+    <name>Telcel 20</name>
+    <sku>001000000020A</sku>
+    <monto>20</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 10 dias</info>
+  </product>
+  <product>
+    <name>Telcel 30</name>
+    <sku>001000000030A</sku>
+    <monto>30</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 20 dias</info>
+  </product>
+  <product>
+    <name>Telcel 50</name>
+    <sku>001000000050A</sku>
+    <monto>50</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 30 dias</info>
+  </product>
+  <product>
+    <name>Telcel 100</name>
+    <sku>001000000100A</sku>
+    <monto>100</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 60 dias</info>
+  </product>
+  <product>
+    <name>Telcel 150</name>
+    <sku>001000000150A</sku>
+    <monto>150</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 60 dias</info>
+  </product>
+  <product>
+    <name>Telcel 200</name>
+    <sku>001000000200A</sku>
+    <monto>200</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 90 dias</info>
+  </product>
+  <product>
+    <name>Telcel 300</name>
+    <sku>001000000300A</sku>
+    <monto>300</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 90 dias</info>
+  </product>
+  <product>
+    <name>Telcel 500</name>
+    <sku>001000000500A</sku>
+    <monto>500</monto>
+    <info>Cualquier duda o aclaracion al tel *264. Vigencia de la recarga 90 dias</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $20 pesos</name>
+    <sku>INT20</sku>
+    <monto>20</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $20 pesos</name>
+    <sku>PA20</sku>
+    <monto>20</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name> RECARGA DE PRUEBAS DATOS TELCEL $30 pesos</name>
+    <sku>PA30</sku>
+    <monto>30</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $30 pesos</name>
+    <sku>INT30</sku>
+    <monto>30</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $50 pesos</name>
+    <sku>INT50</sku>
+    <monto>50</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $50 pesos</name>
+    <sku>PA50</sku>
+    <monto>50</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $80 pesos</name>
+    <sku>PA80</sku>
+    <monto>80</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $100 pesos</name>
+    <sku>PA100</sku>
+    <monto>100</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $100 pesos</name>
+    <sku>INT100</sku>
+    <monto>100</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $150 pesos</name>
+    <sku>INT150</sku>
+    <monto>150</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $150 pesos</name>
+    <sku>PA150</sku>
+    <monto>150</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $200 pesos</name>
+    <sku>PA200</sku>
+    <monto>200</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $200 pesos</name>
+    <sku>INT200</sku>
+    <monto>200</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $300 pesos</name>
+    <sku>INT300</sku>
+    <monto>300</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $300 pesos</name>
+    <sku>PA300</sku>
+    <monto>300</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>RECARGA DE PRUEBAS DATOS TELCEL $500 pesos</name>
+    <sku>PA500</sku>
+    <monto>500</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+  <product>
+    <name>DATOS TELCEL $500 pesos</name>
+    <sku>INT500</sku>
+    <monto>500</monto>
+    <info>ESTO ES UNA RECARGA DE PRUEBAS PAGATAE</info>
+  </product>
+</root>

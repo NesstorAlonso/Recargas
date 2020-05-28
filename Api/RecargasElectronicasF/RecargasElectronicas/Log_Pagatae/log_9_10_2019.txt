@@ -1,0 +1,69 @@
+
+GetTResquestID,request,9/10/2019 13:9:53:429,recelectronicas,WRVqk1DM,,,,;
+response,13:9:54:785,ea285c19d3154b3395fba4623b498253;
+
+DoT,request,9/10/2019
+13:9:54:790,recelectronicas,ea285c19d3154b3395fba4623b498253,001000000020A,8461050722,20;
+response, 9/10/2019 13:9:56:407,8461050722,690822,0,Transaccion Aprobada,3942;
+
+GetTResquestID,request,9/10/2019 13:19:38:154,recelectronicas,WRVqk1DM,,,,;
+response,13:19:38:253,5ab8702f898a4abcb84276f3883d4c22;
+
+DoT,request,9/10/2019
+13:19:38:259,recelectronicas,5ab8702f898a4abcb84276f3883d4c22,001000000020A,8461050722,20;
+response, 9/10/2019 13:19:40:499,8461050722,676789,0,Transaccion Aprobada,3943;
+
+GetTResquestID,request,9/10/2019 13:21:34:8,recelectronicas,WRVqk1DM,,,,;
+response,13:21:34:344,f400f2eaf3684846bf899c1540ebc9cb;
+
+DoT,request,9/10/2019
+13:21:34:387,recelectronicas,f400f2eaf3684846bf899c1540ebc9cb,001000000020A,8461050722,20;
+response, 9/10/2019 13:21:34:777,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+CheckTransaction,request,9/10/2019 13:21:34:784,recelectronicas,f400f2eaf3684846bf899c1540ebc9cb,,,,;
+response,9/10/2019 13:21:34:855,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+GetTResquestID,request,9/10/2019 13:22:4:338,recelectronicas,WRVqk1DM,,,,;
+response,13:22:4:402,6350f134f6704c75ad121ab9c6057e6d;
+
+DoT,request,9/10/2019
+13:22:4:407,recelectronicas,6350f134f6704c75ad121ab9c6057e6d,001000000020A,8461050721,20;
+response, 9/10/2019 13:22:6:682,8461050721,297391,0,Transaccion Aprobada,3944;
+
+GetTResquestID,request,9/10/2019 13:23:14:176,recelectronicas,WRVqk1DM,,,,;
+response,13:23:14:244,afeb8f7e470a404a946dea4f102617e8;
+
+DoT,request,9/10/2019
+13:23:14:250,recelectronicas,afeb8f7e470a404a946dea4f102617e8,001000000020A,8461050722,20;
+response, 9/10/2019 13:23:16:165,8461050722,831693,0,Transaccion Aprobada,3945;
+
+GetTResquestID,request,9/10/2019 13:25:47:469,recelectronicas,WRVqk1DM,,,,;
+response,13:25:47:546,65db79eab3ab422cad4c6e52a91080d4;
+
+DoT,request,9/10/2019
+13:25:47:555,recelectronicas,65db79eab3ab422cad4c6e52a91080d4,001000000020A,8461050722,20;
+response, 9/10/2019 13:25:49:161,8461050722,268729,0,Transaccion Aprobada,3946;
+
+GetTResquestID,request,9/10/2019 13:27:0:884,recelectronicas,WRVqk1DM,,,,;
+response,13:27:0:949,525bc875f6564302b832636a77a77661;
+
+DoT,request,9/10/2019
+13:27:0:955,recelectronicas,525bc875f6564302b832636a77a77661,001000000020A,8461050722,20;
+response, 9/10/2019 13:27:1:74,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+CheckTransaction,request,9/10/2019 13:27:1:85,recelectronicas,525bc875f6564302b832636a77a77661,,,,;
+response,9/10/2019 13:27:1:153,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+GetTResquestID,request,9/10/2019 13:27:14:852,recelectronicas,WRVqk1DM,,,,;
+response,13:27:14:912,3b64f099c16947e4a8c6dbdde4280664;
+
+DoT,request,9/10/2019
+13:27:14:916,recelectronicas,3b64f099c16947e4a8c6dbdde4280664,001000000020A,8461050721,20;
+response, 9/10/2019 13:27:16:531,8461050721,906668,0,Transaccion Aprobada,3947;
+
+GetTResquestID,request,9/10/2019 13:44:20:577,recelectronicas,WRVqk1DM,,,,;
+response,13:44:20:644,34b243aa2f83417dbd6dbf26b5887478;
+
+DoT,request,9/10/2019
+13:44:20:806,recelectronicas,34b243aa2f83417dbd6dbf26b5887478,001000000020A,8461050722,20;
+response, 9/10/2019 13:44:21:919,8461050722,778905,0,Transaccion Aprobada,3948;

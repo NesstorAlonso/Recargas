@@ -1,0 +1,40 @@
+
+GetTResquestID,request,11/11/2019 12:43:47:782,recelectronicas,WRVqk1DM,,,,;
+response,12:43:47:903,97e212a8fcb4433dae9d0922800e445c;
+
+DoT,request,11/11/2019
+12:43:47:909,recelectronicas,97e212a8fcb4433dae9d0922800e445c,001000000010A,1111111111,10;
+response, 11/11/2019 12:43:49:586,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:43:49:668,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:43:51:547,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:43:51:741,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:43:53:316,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:43:54:570,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:43:56:145,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:43:56:150,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:43:57:711,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:43:57:715,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:43:59:304,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:43:59:556,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:44:1:147,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:44:1:152,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:44:3:20,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:44:3:45,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:44:4:753,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:44:4:757,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:44:6:347,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:44:6:352,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:44:7:925,1111111111,,2,EN_PROCESO,4220;
+
+CheckTransaction,request,11/11/2019 12:44:7:930,recelectronicas,97e212a8fcb4433dae9d0922800e445c,,,,;
+response,11/11/2019 12:44:9:4,1111111111,132347,0,Transaccion Aprobada,4220;

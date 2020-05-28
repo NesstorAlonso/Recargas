@@ -1,0 +1,192 @@
+﻿
+@{
+    ViewData["Title"] = "Contrasena";
+}
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.10/jquery.mask.js"></script>
+<script>
+    $('.nip').mask('0000');
+</script>
+<div class="container-fluid ">
+    <div class="col-lg-14 col-md-14 col-sm-14">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="card">
+                <div class="container">
+                    <div class="col-lg-12 col-md-12 user_earnings" align="center">
+                        <h4>Cambiar contraseña/Nip</h4>
+                    </div>
+                    <div class="block-header">
+                        <h2>Cambiar contraseña</h2>
+                    </div>
+                    <div class="card">
+                        <div class="body">
+                            <div class="demo-masked-input">
+                                <div class="row clearfix col-lg-6">
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Contraseña actual: *</p>
+                                            <input type="password" id="pwdAct" placeholder="*******" class="form-control" required minlength="3">
+                                        </div>
+                                    </div>
+
+
+                                    <div class="col-lg-6 col-md-12">
+
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Nueva contraseña: *</p>
+                                            <input type="password" class="form-control" required placeholder="*******" id="pwdNueva" minlength="3">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-12">
+
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Confirme contraseña: *</p>
+                                            <input type="password" class="form-control" required placeholder="*******" id="pwdConfirmar" minlength="3">
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-2.5">
+
+
+
+                                    </div>
+
+                                    <div class="col-lg-1 ">
+
+                                        <div class="form-group form-float">
+                                            <button type="submit" class="btn btn-success btn-round " id="btnGuardarContrasena">Guardar Cambios <i class="zmdi zmdi-floppy"></i> </button>
+                                        </div>
+
+
+                                    </div>
+                                    <div class="col-lg-1">
+
+
+
+                                    </div>
+
+                                    <div class="col-lg-2   float-right" style="margin-right: 200px;">
+                                        <a asp-area="" asp-controller="Home" asp-action="Index">
+                                            <button class="btn btn-danger btn-round " id="btnCancelarContrasena">Cancelar</button>
+                                        </a>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="block-header">
+                        <h2>Cambiar Nip </h2>
+                    </div>
+                    <div class="card">
+                        <div class="body">
+                            <div class="demo-masked-input">
+                                <div class="row clearfix">
+
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Nuevo Nip: *</p>
+                                            <input type="password" class="form-control nip" required placeholder="****" id="nip" minlength="3">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-12">
+
+                                    </div>
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+                                            <p class="my-2">Confirme Nip: *</p>
+                                            <input type="password" class="form-control nip" required placeholder="****" id="confNip" minlength="3">
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row">
+
+
+                                    <div class="col-lg-6 col-md-12">
+                                        <div class="form-group form-float">
+
+                                            <input type="checkbox" class="" required placeholder="****" id="HabilitarNip"><label>   </label><label>   Habilitar</label>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-2.5">
+
+
+
+                                    </div>
+
+                                    <div class="col-lg-1 ">
+                                        <div class="form-group form-float">
+                                            <button type="submit" class="btn btn-success btn-round " id="btnGuardarNip">Guardar Cambios <i class="zmdi zmdi-floppy"></i> </button>
+                                        </div>
+
+
+                                    </div>
+                                    <div class="col-lg-1">
+
+
+
+                                    </div>
+
+                                    <div class="col-lg-2   float-right" style="margin-right: 200px;">
+                                        <a asp-area="" asp-controller="Home" asp-action="Index">
+                                            <button class="btn btn-danger btn-round " id="btnCancelarNip">Cancelar</button>
+                                        </a>
+                                    </div>
+                                </div>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+
+        </div>
+    </div>
+    <div class="modal-footer ">
+
+
+
+    </div>
+</div>
+
+
+<script src="~/js/Contrasena.js"></script>

@@ -1,0 +1,318 @@
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\source\repos\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\recargasElectronicas\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\RODAS\Downloads\29-11-19\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Correcciones\Api Geho\Para_subir_RecargasElectronicas\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.g.cshtml.cs
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\RODAS\Downloads\Online03-01-2020\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.cshtml.g.cs
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Dell\Desktop\Geho\RecargasElectronicasF\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePassword.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePasswordConfirmation.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EmailVerificationConfirmation.cshtml.g.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EmailVerificationConfirmation.g.cshtml.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePassword.g.cshtml.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePasswordConfirmation.g.cshtml.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.g.cshtml.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\dell\Desktop\Rodas Plataforma\RecargaCelular Correcto\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EmailVerificationConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePassword.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePasswordConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+M:\Dulce\1.-2020\3.-Recargas\Rodas Plataforma\RecargaCelular Servidor\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EmailVerificationConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePassword.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePasswordConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagaqui\ConnectedService.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Pagatae\ConnectedService.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Connected Services\Recargaqui\ConnectedService.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.deps.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\web.config
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.runtimeconfig.dev.json
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.dll
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\bin\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csprojAssemblyReference.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorAssemblyInfo.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfoInputs.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.AssemblyInfo.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.input.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.TagHelpers.output.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorCoreGenerate.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EmailVerificationConfirmation.cshtml.g.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePassword.cshtml.g.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\EstablecePasswordConfirmation.cshtml.g.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPassword.cshtml.g.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\Razor\Views\Cuentas\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.RazorTargetAssemblyInfo.cs
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.Views.pdb
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.dll
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.pdb
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.genruntimeconfig.cache
+C:\Users\Nestor\Desktop\RecargasElectronicas\RecargasElectronicasF\RecargasElectronicas\obj\Release\netcoreapp2.2\RecargasElectronicas.csproj.CopyComplete

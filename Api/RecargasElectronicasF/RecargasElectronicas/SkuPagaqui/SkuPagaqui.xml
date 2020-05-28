@@ -1,0 +1,2762 @@
+<root>
+  <product>
+    <name>TELCEL $10</name>
+    <sku>001000000010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS y WhatsApp ilimitado. 60MB navegación. Vigencia  1 día.</info>
+  </product>
+  <product>
+    <name>TELCEL $20</name>
+    <sku>001000000020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS y WhatsApp ilimitado. 200MB de Redes Sociales, 100MB navegación. Vigencia  1 día.</info>
+  </product>
+  <product>
+    <name>TELCEL $30</name>
+    <sku>001000000030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS y WhatsApp ilimitado. 300MB de Redes Sociales, 120MB navegación. Vigencia  3 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $50</name>
+    <sku>001000000050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS y WhatsApp ilimitado. 500MB de Redes Sociales, 300MB navegación. Vigencia  7 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $80</name>
+    <sku>001000000080A</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS y WhatsApp ilimitado. 1000MB de Redes Sociales, 400MB navegación. Vigencia  13 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $100</name>
+    <sku>001000000100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS, WhatsApp Y Redes Sociales ilimitadas, 1200MB navegación. Vigencia  17 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $150</name>
+    <sku>001000000150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS, WhatsApp Y Redes Sociales ilimitadas, 2000MB navegación. Vigencia  28 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $200</name>
+    <sku>001000000200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS, WhatsApp Y Redes Sociales ilimitadas, 3000MB navegación. Vigencia  30 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $300</name>
+    <sku>001000000300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS, WhatsApp Y Redes Sociales ilimitadas, 5000MB navegación. Vigencia  33 días.</info>
+  </product>
+  <product>
+    <name>TELCEL $500</name>
+    <sku>001000000500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Dudas o aclaraciones *264. Llamadas, SMS, WhatsApp Y Redes Sociales ilimitadas, 10000MB navegación. Vigencia  33 días.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $10</name>
+    <sku>PQ00MOV010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 1 dia, 5 numeros gratis,  0.98 MB, 200 MB para whatsapp</info>
+  </product>
+  <product>
+    <name>MOVISTAR $20</name>
+    <sku>PQ00MOV020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 2 dias, 5 numeros gratis, 0.98 MB, 300 MB para whatsapp</info>
+  </product>
+  <product>
+    <name>MOVISTAR $30</name>
+    <sku>PQ00MOV030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 3 dias, Llamadas, SMS y WhatsApp ilimitado , 300 MB de navegacion, 200MB para Redes Sociales.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $40</name>
+    <sku>PQ00MOV040A</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 3 dias, Llamadas, SMS y WhatsApp ilimitado , 300 MB de navegacion, 200MB para Redes Sociales, 10 de saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $50</name>
+    <sku>PQ00MOV050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 7 dias, Llamadas, SMS y WhatsApp ilimitado , 500 MB de navegacion, 1GB para Redes Sociales.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $60</name>
+    <sku>PQ00MOV060A</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 7 dias, Llamadas, SMS y WhatsApp ilimitado , 500 MB de navegacion, 1GB para Redes Sociales, 10 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $70</name>
+    <sku>PQ00MOV070A</sku>
+    <monto>70</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 7 dias, Llamadas, SMS y WhatsApp ilimitado , 500 MB de navegacion, 1GB para Redes Sociales, 20 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $80</name>
+    <sku>PQ00MOV080A</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 7 dias, Llamadas, SMS y WhatsApp ilimitado , 500 MB de navegacion, 1GB para Redes Sociales, 30 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $100</name>
+    <sku>PQ00MOV100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 15 dias, Llamadas, SMS y WhatsApp ilimitado , 1.4GB de navegacion, Redes Sociales Ilimitadas.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $120</name>
+    <sku>PQ00MOV120A</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 15 dias, Llamadas, SMS y WhatsApp ilimitado , 1.4GB de navegacion, Redes Sociales Ilimitadas, 20 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $140</name>
+    <sku>002000000140A</sku>
+    <monto>140</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 15 dias, Llamadas, SMS y WhatsApp ilimitado , 1.4GB de navegacion, Redes Sociales Ilimitadas, 40 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $150</name>
+    <sku>PQ00MOV150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 28 dias, Llamadas, SMS y WhatsApp ilimitado , 2.1GB de navegacion, Redes Sociales Ilimitadas.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $200</name>
+    <sku>PQ00MOV200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 30 dias, Llamadas, SMS y WhatsApp ilimitado , 3GB de navegacion, Redes Sociales Ilimitadas, 1GB para Youtube y Netflix.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $250</name>
+    <sku>PQ00MOV250A</sku>
+    <monto>250</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 30 dias, Llamadas, SMS y WhatsApp ilimitado , 3GB de navegacion, Redes Sociales Ilimitadas, 1GB para Youtube y Netflix, 50 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $300</name>
+    <sku>PQ00MOV300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 30 dias, Llamadas, SMS y WhatsApp ilimitado , 3GB de navegacion, Redes Sociales Ilimitadas, 1GB para Youtube y Netflix, 100 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>MOVISTAR $500</name>
+    <sku>PQ00MOV500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Cualquier duda o aclaracion al *611. Vigencia de la recarga 30 dias, Llamadas, SMS y WhatsApp ilimitado , 3GB de navegacion, Redes Sociales Ilimitadas, 1GB para Youtube y Netflix, 300 saldo para consumo.</info>
+  </product>
+  <product>
+    <name>ATT UNEFON $10</name>
+    <sku>PQ00IUSV010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $20</name>
+    <sku>PQ00IUSV020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $30</name>
+    <sku>PQ00IUSV030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $50</name>
+    <sku>PQ00IUSV050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $70</name>
+    <sku>PQ00IUSV070B</sku>
+    <monto>70</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $100</name>
+    <sku>PQ00IUSV100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $120</name>
+    <sku>PQ00IUSV120A</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $150 </name>
+    <sku>PQ00IUSV150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $200</name>
+    <sku>PQ00IUSV200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $300</name>
+    <sku>PQ00IUSV300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $500</name>
+    <sku>PQ00IUSV500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>ATT/UNEFON $1000</name>
+    <sku>PQ00IUSV1000A</sku>
+    <monto>1000</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Consulta planes y vigencias con tu operador. Mayor informaciòn *611 desde tu celular.</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $10</name>
+    <sku>PQ00FLA010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $20</name>
+    <sku>PQ00FLA020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $30</name>
+    <sku>PQ00FLA030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $40</name>
+    <sku>PQ00FLA040A</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $50</name>
+    <sku>PQ00FLA050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $60</name>
+    <sku>PQ00FLA060A</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $70</name>
+    <sku>PQ00FLA070A</sku>
+    <monto>70</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $80</name>
+    <sku>PQ00FLA080A</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $100</name>
+    <sku>PQ00FLA100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia 15 días. Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas. 1GB de navegación. Info al *444 o al *555 desde tu celular con línea Flash Mobile.</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $120</name>
+    <sku>PQ00FLA120A</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $150</name>
+    <sku>PQ00FLA150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia 30 días. Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas. 1.5GB de navegación. Info al *444 o al *555 desde tu celular con línea Flash Mobile.</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $200</name>
+    <sku>PQ00FLA200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia 30 días. Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas. 2GB de navegación. Info al *444 o al *555 desde tu celular con línea Flash Mobile.</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $250</name>
+    <sku>PQ00FLA250A</sku>
+    <monto>250</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $300</name>
+    <sku>PQ00FLA300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia 30 días. Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas. 2.5GB de navegación. Info al *444 o al *555 desde tu celular con línea Flash Mobile.</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $400</name>
+    <sku>PQ00FLA400A</sku>
+    <monto>400</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activa tus planes marcando al *444 o al *555. Mayor información www.flashmobile.mx</info>
+  </product>
+  <product>
+    <name>FLASHMOBILE $500</name>
+    <sku>PQ00FLA500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia 30 días. Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas. 5GB de navegación. Info al *444 o al *555 desde tu celular con línea Flash Mobile.</info>
+  </product>
+  <product>
+    <name>TELEPEAJE TELEVIA  $100 pesos</name>
+    <sku>008PQ0S10TLV0A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{11}$|^[a-zA-Z0-9]{12}$|^[a-zA-Z0-9]{14}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TELEPEAJE TELEVIA $200 pesos</name>
+    <sku>008PQ0S10TLV2A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{11}$|^[a-zA-Z0-9]{12}$|^[a-zA-Z0-9]{14}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TELEPEAJE TELEVIA $300 pesos</name>
+    <sku>008PQ0S10TLV3A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{11}$|^[a-zA-Z0-9]{12}$|^[a-zA-Z0-9]{14}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TELEPEAJE TELEVIA $500 pesos</name>
+    <sku>008PQ0S10TLV5A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{11}$|^[a-zA-Z0-9]{12}$|^[a-zA-Z0-9]{14}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>CFE</name>
+    <sku>009PQ0S10CFE0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>30000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{12}$|^[0-9]{30}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TELMEX</name>
+    <sku>010PQ0S10TLX0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{10}$|^[0-9]{11}$|^[0-9]{20}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>SKY</name>
+    <sku>DEMOQ0S10SKY0A</sku>
+    <monto>0</monto>
+    <minimo>20</minimo>
+    <maximo>8000</maximo>
+    <checksku>-1</checksku>
+    <regex>^[0-9]{12}$|^[0-9]{13}$|^[0-9]{14}$|^[0-9]{15}$</regex>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name>AXTEL</name>
+    <sku>012PQ0S10AXT0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{26}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MAXIGAS</name>
+    <sku>013PQ0MAX0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{30}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TESORERIA CDMX</name>
+    <sku>014PQCDMX0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{20}$|^[a-zA-Z0-9]{21}$|^[a-zA-Z0-9]{32}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>CABLEMAS</name>
+    <sku>015PQ0S10CMS0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{32}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>OMNILIFE</name>
+    <sku>016PQ0S10ORI0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>0</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>ATT FACTURA </name>
+    <sku>017PQ0S10SEC0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{10}$|^[0-9]{17}$|^[0-9]{18}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>SIAPA</name>
+    <sku>018PQ0SIA0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{8}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO CELAYA</name>
+    <sku>019PQ0GOBCEL0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MOVISTAR RENTA</name>
+    <sku>021PQ0S10MRE0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{18}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>ARABELA</name>
+    <sku>022PQ0S10ARB0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{8}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>AVON</name>
+    <sku>023PQ0S10AVO0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>10000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{14}$|^[0-9]{20}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>LEBEL</name>
+    <sku>024PQ0S10LEB0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-6]{6}$|^[0-9]{9}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>OUI 30</name>
+    <sku>PQ00OUI030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para activar planes marcar *311. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name>OUI 50</name>
+    <sku>PQ00OUI050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas y SMS ilimitadas, WS, FB y TW incluidas. Navegación 150MB. Vigencia 7 días. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name>OUI 60</name>
+    <sku>PQ00OUI060A</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para activar planes marcar *311. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 75</name>
+    <sku>PQ00OUI075A</sku>
+    <monto>75</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para activar planes marcar *311. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 100</name>
+    <sku>PQ00OUI100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas y SMS ilimitadas, WS, FB y TW incluidas. Navegación 500MB. Vigencia 7 días. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 125</name>
+    <sku>PQ00OUI125A</sku>
+    <monto>125</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas y SMS ilimitadas, WS, FB y TW incluidas. Navegación 1024MB. Vigencia 15 días. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 150</name>
+    <sku>PQ00OUI150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas y SMS ilimitadas, WS, FB y TW incluidas. Navegación 750MB. Vigencia 7 días. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 200</name>
+    <sku>PQ00OUI200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para activar planes de 15 o 30 días de vigencia marcar *311. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 250</name>
+    <sku>PQ00OUI250A</sku>
+    <monto>250</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas y SMS ilimitadas, WS, FB y TW incluidas. Navegación 2000MB. Vigencia 15 días. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name> OUI 300</name>
+    <sku>PQ00OUI300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas y SMS ilimitadas, WS, FB y TW incluidas. Navegación 2200MB. Vigencia 30 días. Mas info www.ouimovil.com.mx</info>
+  </product>
+  <product>
+    <name>MAXCOM</name>
+    <sku>026PQ0S10MXM0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{5}$|^[0-9]{6}$|^[0-9]{7}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>VENTA_CATALOGO ORIFLAME</name>
+    <sku>DEMOQ0S1ORIFLA</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>-1</checksku>
+    <regex>^[0-9]{8}$|^[0-9]{9}|^[0-9]{10}$</regex>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name>ALO $10</name>
+    <sku>PQ00ALOV010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 10 días. </info>
+  </product>
+  <product>
+    <name>ALO $20</name>
+    <sku>PQ00ALOV020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 10 días. </info>
+  </product>
+  <product>
+    <name>ALO $30</name>
+    <sku>PQ00ALOV030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 15 días. </info>
+  </product>
+  <product>
+    <name>ALO $50</name>
+    <sku>PQ00ALOV050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 30 días. </info>
+  </product>
+  <product>
+    <name>ALO $100</name>
+    <sku>PQ00ALOV100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 60 días. </info>
+  </product>
+  <product>
+    <name>ALO $150</name>
+    <sku>PQ00ALOV150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info> 	Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 60 días. </info>
+  </product>
+  <product>
+    <name>ALO $200</name>
+    <sku>PQ00ALOV200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 60 días. </info>
+  </product>
+  <product>
+    <name>ALO $300</name>
+    <sku>PQ00ALOV300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info> 	Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 60 días. </info>
+  </product>
+  <product>
+    <name>ALO $500</name>
+    <sku>PQ00ALOV500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Marca *611 desde tu Aló o envía un SMS con la palabra SALDO a la marcación 611. Vigencia de 60 días. </info>
+  </product>
+  <product>
+    <name>VIRGIN $20</name>
+    <sku>PQ00VIR020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para planes y paquetes marcar *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $30 </name>
+    <sku>PQ00VIR030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para planes y paquetes marcar *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $40</name>
+    <sku>PQ00VIR040A</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para planes y paquetes marcar *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $50</name>
+    <sku>PQ00VIR050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas, 500MB de navegación. Vigencia 7 días. Mayor información al *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $100</name>
+    <sku>PQ00VIR100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas, 1.5GB de navegación. Vigencia 16 días. Mayor información al *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $150</name>
+    <sku>PQ00VIR150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para planes y paquetes marcar *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $200</name>
+    <sku>PQ00VIR200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS, WhatsApp y Redes Sociales ilimitadas, 2.5GB de navegación. Vigencia 30 días. Mayor información al *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $300</name>
+    <sku>PQ00VIR300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>TODO ILIMITADO. Vigencia 30 días. Mayor información al *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>VIRGIN $500</name>
+    <sku>PQ00VIR500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Para planes y paquetes marcar *188 o en la App de Virgin.</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $10</name>
+    <sku>PQ00MTO010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $20</name>
+    <sku>PQ00MTO020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $30</name>
+    <sku>PQ00MTO030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $50</name>
+    <sku>PQ00MTO050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $60</name>
+    <sku>PQ00MTO060A</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $100</name>
+    <sku>PQ00MTO100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $120</name>
+    <sku>PQ00MTO120A</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $150</name>
+    <sku>PQ00MTO150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $200</name>
+    <sku>PQ00MTO200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $300</name>
+    <sku>PQ00MTO300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>MAZTIEMPO $500</name>
+    <sku>PQ00MTO500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>ESTIMADO CLIENTE PARA CUALQUIER DUDA SIN COSTO MARCA: *991 DESDE TU MAZ TIEMPO</info>
+  </product>
+  <product>
+    <name>CIERTO $20</name>
+    <sku>PQ00CIE020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS y WhatsApp ilimitados, navegación 30MB. Vigencia 7 días. Cualquier duda *767.</info>
+  </product>
+  <product>
+    <name>CIERTO $30</name>
+    <sku>PQ00CIE030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS y WhatsApp ilimitados, navegación 60MB, FB TW MSN Ilimitados. Vigencia 7 días. Cualquier duda *767.</info>
+  </product>
+  <product>
+    <name>CIERTO $50</name>
+    <sku>PQ00CIE050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS y WhatsApp ilimitados, navegación 300MB, FB TW MSN Ilimitados. Vigencia 10 días. Cualquier duda *767.</info>
+  </product>
+  <product>
+    <name>CIERTO $100</name>
+    <sku>PQ00CIE100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS y WhatsApp ilimitados, navegación 800MB, FB TW MSN Ilimitados. Vigencia 21 días. Cualquier duda *767.</info>
+  </product>
+  <product>
+    <name>CIERTO $200</name>
+    <sku>PQ00CIE200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS y WhatsApp ilimitados, navegación 1.3GB. FB TW MSN Ilimitados. Vigencia 30 días. Cualquier duda *767.</info>
+  </product>
+  <product>
+    <name>CIERTO $300</name>
+    <sku>PQ00CIE300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Recarga bajo consumo. Consulta detalles y tarifas al *767 </info>
+  </product>
+  <product>
+    <name>CIERTO $500</name>
+    <sku>PQ00CIE500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Recarga bajo consumo. Consulta detalles y tarifas al *767 </info>
+  </product>
+  <product>
+    <name>WEEX $10</name>
+    <sku>PQ00WEX010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $20</name>
+    <sku>PQ00WEX020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $30</name>
+    <sku>PQ00WEX030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $40</name>
+    <sku>PQ00WEX040A</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $50</name>
+    <sku>PQ00WEX050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $60</name>
+    <sku>PQ00WEX060A</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $70</name>
+    <sku>PQ00WEX070A</sku>
+    <monto>70</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $80</name>
+    <sku>PQ00WEX080A</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $100</name>
+    <sku>PQ00WEX100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $120</name>
+    <sku>PQ00WEX120A</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $150</name>
+    <sku>PQ00WEX150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $200</name>
+    <sku>PQ00WEX200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $250</name>
+    <sku>PQ00WEX250A</sku>
+    <monto>250</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $300</name>
+    <sku>PQ00WEX300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $400</name>
+    <sku>PQ00WEX400A</sku>
+    <monto>400</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>WEEX $500</name>
+    <sku>PQ00WEX500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Activación de planes e información en www.weex.mx</info>
+  </product>
+  <product>
+    <name>PASE URBANO $100 Pesos</name>
+    <sku>034PQAVE0100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $200 Pesos</name>
+    <sku>034PQAVE0200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $300 Pesos</name>
+    <sku>034PQAVE0300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $400 Pesos</name>
+    <sku>034PQAVE0400A</sku>
+    <monto>400</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $500 Pesos</name>
+    <sku>034PQAVE0500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $600 Pesos</name>
+    <sku>034PQAVE0600A</sku>
+    <monto>600</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $700 Pesos</name>
+    <sku>034PQAVE0700A</sku>
+    <monto>700</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $800 Pesos</name>
+    <sku>034PQAVE0800A</sku>
+    <monto>800</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $900 Pesos</name>
+    <sku>034PQAVE0900A</sku>
+    <monto>900</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $1000 Pesos</name>
+    <sku>034PQAVE1000A</sku>
+    <monto>1000</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $1500 pesos</name>
+    <sku>034002001500A</sku>
+    <monto>1500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>PASE URBANO $2000 pesos</name>
+    <sku>034002002000A</sku>
+    <monto>2000</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{9}$|^[a-zA-Z0-9]{10}$|^[a-zA-Z0-9]{13}$|^[a-zA-Z0-9]{14}$|^[a-zA-Z0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>DISH ONLINE</name>
+    <sku>035PQ0S10DISHA</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{14}$|^[0-9]{15}$|^[0-9]{17}$|^[0-9]{20}$|^[0-9]{28}$|^[0-9]{30}$|^[0-9]{32}$</regex>
+    <info>ATENCIÓN USUARIOS DISH: PARA SERVICIO AL CLIENTE LLAMAR AL 0155 9628 3474, En caso de tener algún problema con su pago, comunicarse con Atención a Clientes en PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket.</info>
+  </product>
+  <product>
+    <name>BELCORP</name>
+    <sku>037PQ0S10BLP0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{9}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>YVES ROCHER</name>
+    <sku>038PQ0S10YVE0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{15}$|^[0-9]{17}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>INFONAVIT</name>
+    <sku>040PQ0S10INF0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{10}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO HIDALGO</name>
+    <sku>041PQ0HID0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{20}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO MICHOACAN</name>
+    <sku>042PQ0MIC0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO TABASCO</name>
+    <sku>043PQ0TAB0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name> TOTALPLAY</name>
+    <sku>DEMOQ0S1OTOTAL</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>-1</checksku>
+    <regex>^[0-9]{10}$|^[0-9]{17}$|^[0-9]{18}$</regex>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name>ILUSION</name>
+    <sku>045PQ0S10ILU0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MUNICIPIONAUCALPAN</name>
+    <sku>046PQ0S10MNA0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>NATURA</name>
+    <sku>047PQ0S10NAT0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{11}$|^[0-9]{20}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>SWISSJUST</name>
+    <sku>048PQ0S10SWI0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{11}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name> MEGACABLE</name>
+    <sku>DEMO0S10MEG0A1</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>-1</checksku>
+    <regex>^[0-9]{6}$|^[0-9]{9}$|^[0-9]{10}$|^[0-9]{11}$|^[0-9]{13}$|^[0-9]{26}$|^[0-9]{27}$</regex>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name>VE TV</name>
+    <sku>050PQSKY0VTV0A</sku>
+    <monto>0</monto>
+    <minimo>20</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{12}$|^[0-9]{13}$|^[0-9]{14}$|^[0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>BLUE TELECOMM</name>
+    <sku>051PQSKY0BLU0A</sku>
+    <monto>0</monto>
+    <minimo>20</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{12}$|^[0-9]{13}$|^[0-9]{14}$|^[0-9]{15}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>REDNOVO</name>
+    <sku>052PQ0S10RED0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO MEXICO </name>
+    <sku>0530GME0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>9000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{27}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO QUERETARO</name>
+    <sku>054PQ0QRO0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO_CHIH</name>
+    <sku>056PQ0SGOBCHIA</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO_ZAC</name>
+    <sku>057PQ0AGOBZACA</sku>
+    <monto>0</monto>
+    <minimo>0</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MULTIMEDIOS_MONTERREY</name>
+    <sku>062PQ0S10MED0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TUPPERWARE</name>
+    <sku>064PQ0S10TUP0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{14}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>FULLER</name>
+    <sku>066PQ0S10FUL0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{6}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GAS_NATURAL</name>
+    <sku>067PQ0S10GAS0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{19}$|^[0-9]{28}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>AGUA_SALAMANCA</name>
+    <sku>068PQ0SAGSALAA</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{26}$</regex>
+    <info>El periodo para la aplicación del pago es de 24 HRS.  En caso de tener algún problema con su pago, comunicarse con Atención a Clientes en PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>NEXTEL_SERVICIOS</name>
+    <sku>069PQ0ANEXSERA</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{20}$|^[0-9]{26}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>AGUA_CELAYA</name>
+    <sku>070PQ0AAGCELAA</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{30}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name> IZZI</name>
+    <sku>DEMOQ0S10IZZI0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>-1</checksku>
+    <regex>^[0-9]{8}$|^[0-9]{9}$|^[0-9]{10}$|</regex>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name>TARJETAS XBOX LIVE GOLD</name>
+    <sku>073PQ0XBX0200T</sku>
+    <monto>139</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS AZULCREMA</name>
+    <sku>074PQ0AME0300T</sku>
+    <monto>399</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Producto virtual, no físico. Membresía con vigencia de 1 año.</info>
+  </product>
+  <product>
+    <name>TARJETAS CINEPOLIS</name>
+    <sku>076PQ0CIN0500T</sku>
+    <monto>49</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS CINEPOLIS 5Pax</name>
+    <sku>077PQ0CIN0600T</sku>
+    <monto>239</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>AGUA_CORDOBA</name>
+    <sku>078PQ0S10COR0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{30}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS FACTURA_FIEL</name>
+    <sku>079PQ0FIE0700T</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS KASPERSKY_1PC</name>
+    <sku>080PQ0KAS0800T</sku>
+    <monto>299</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS NINTENDO</name>
+    <sku>082PQ0NDS0200T</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS PLAYSTATION_20dls</name>
+    <sku>083PQ0PSN0110T</sku>
+    <monto>400</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS ANDALE</name>
+    <sku>087PQ0AAE0150T</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Producto virtual, no físico. Membresía con vigencia de 1 año.</info>
+  </product>
+  <product>
+    <name>TODITOCARD</name>
+    <sku>090PQ0TDC0000T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>5000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS BLIM $109</name>
+    <sku>089PQ0BLI0109T</sku>
+    <monto>109</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS BLIM $289</name>
+    <sku>089PQ0BLI0289T</sku>
+    <monto>289</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS BLIM $549</name>
+    <sku>089PQ0BLI0549T</sku>
+    <monto>549</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS TODITOCARD_PIN</name>
+    <sku>090PQ0TDC0001T</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS TODITOCARD_PIN $100 pesos</name>
+    <sku>090PQ0TDC0100T</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS TODITOCARD_PIN $200 pesos</name>
+    <sku>090PQ0TDC0200T</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>AGUA_FORTIN</name>
+    <sku>091PQ0S20FOR0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[a-zA-Z0-9]{32}$</regex>
+    <info>La aplicación del pago es de 24 HRS. En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket.</info>
+  </product>
+  <product>
+    <name>JAFRA</name>
+    <sku>092PQ0S20JAF0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>9000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{7}$|^[0-9]{8}$|^[0-9]{9}$|^[0-9]{10}$|^[0-9]{11}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>OMNIBUSDEMEXICO</name>
+    <sku>093PQ0S20OBM0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS PAYSAFECARD $107</name>
+    <sku>090PQ0PSC0107T</sku>
+    <monto>107</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS PAYSAFECARD $257</name>
+    <sku>090PQ0PSC0257T</sku>
+    <monto>257</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS PAYSAFECARD $507</name>
+    <sku>090PQ0PSC0507T</sku>
+    <monto>507</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS SPOTIFY $107</name>
+    <sku>097PQ0SPO0100T</sku>
+    <monto>107</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS SPOTIFY $257</name>
+    <sku>097PQ0SPO0250T</sku>
+    <monto>257</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS SPOTIFY $507</name>
+    <sku>097PQ0SPO0500T</sku>
+    <monto>507</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS DEEZER $107</name>
+    <sku>098PQ0DEE0100T</sku>
+    <monto>107</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS DEEZER $257</name>
+    <sku>098PQ0DEE0250T</sku>
+    <monto>257</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS DEEZER $507</name>
+    <sku>098PQ0DEE0500T</sku>
+    <monto>507</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS CALIENTE $107</name>
+    <sku>100PQ0CAL0100T</sku>
+    <monto>107</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS CALIENTE $257</name>
+    <sku>100PQ0CAL0250T</sku>
+    <monto>257</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS CALIENTE $507</name>
+    <sku>100PQ0CAL0500T</sku>
+    <monto>507</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS LEAGUEOFLEGENDS $107</name>
+    <sku>101PQ0LOL0100T</sku>
+    <monto>107</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS LEAGUEOFLEGENDS $257</name>
+    <sku>101PQ0LOL0250T</sku>
+    <monto>257</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS LEAGUEOFLEGENDS $507</name>
+    <sku>101PQ0LOL0500T</sku>
+    <monto>507</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS WORLDOFTANKS $107</name>
+    <sku>102PQ0WOT0100T</sku>
+    <monto>107</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS WORLDOFTANKS $257</name>
+    <sku>102PQ0WOT0250T</sku>
+    <monto>257</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TARJETAS WORLDOFTANKS $507</name>
+    <sku>102PQ0WOT0500T</sku>
+    <monto>507</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MUEVE_DF $50 pesos</name>
+    <sku>104PQMUEDF050T</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{16}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MUEVE_DF $100 pesos</name>
+    <sku>104PQMUEDF100T</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{16}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MUEVE_DF $200 pesos</name>
+    <sku>104PQMUEDF200T</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{16}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MUEVE_DF $300 pesos</name>
+    <sku>104PQMUEDF300T</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{16}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>MUEVE_DF $500 pesos</name>
+    <sku>104PQMUEDF500T</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{16}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>GOBIERNO TLAXCALA</name>
+    <sku>105PQ0TXC0001T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>[a-zA-Z0-9]{20}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>DINERO EXPRESS</name>
+    <sku>106PQ0DEX0000T</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>1989</maximo>
+    <checksku>-1</checksku>
+    <regex>^[0-9]{11}$</regex>
+    <info>La aplicación del pago es de 24 HRS. En caso de tener algún problema con su pago, comunicarse con Atención a Clientes en PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket.</info>
+  </product>
+  <product>
+    <name>HERBALIFE</name>
+    <sku>107PQEL10HER0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>-1</checksku>
+    <regex>^[a-zA-Z0-9]{10}$</regex>
+    <info>En caso de tener algún problema con su pago, comunicarse con Atención a Clientes PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket</info>
+  </product>
+  <product>
+    <name>TELCEL FACTURA</name>
+    <sku>108PQ0S10TFA0A</sku>
+    <monto>0</monto>
+    <minimo>1</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{10}$</regex>
+    <info>La aplicación del pago es de 24 HRS. En caso de tener algún problema con su pago, comunicarse con Atención a Clientes en PAGAQUI a los números 5086-6847, 5086-6853, 5086-6866 y proporcionar los datos de su ticket.</info>
+  </product>
+  <product>
+    <name>40 MB Navegación libre $10. 1 Día</name>
+    <sku>PQDAMOV010INT</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 1 día. 40MB Navegación libre</info>
+  </product>
+  <product>
+    <name>140 MB Navegación libre $30. 3 Días</name>
+    <sku>PQDAMOV030INT</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 3 días. 140 MB Navegación libre</info>
+  </product>
+  <product>
+    <name>300 MB Navegación libre $60. 7 Días</name>
+    <sku>PQDAMOV060INT</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 7 días. 300 MB Navegación libre</info>
+  </product>
+  <product>
+    <name>600 MB Navegación libre $80. 15 Días</name>
+    <sku>PQDAMOV080INT</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 15 días. 600 MB Navegación libre</info>
+  </product>
+  <product>
+    <name>1 GB Navegación libre $120. 21 Días</name>
+    <sku>PQDAMOV0120INT</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 21 días. 1 GB Navegación libre</info>
+  </product>
+  <product>
+    <name>2 GB Navegación libre $200. 30 Días</name>
+    <sku>PQDAMOV200INT</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 30 días. 2 GB Navegación libre</info>
+  </product>
+  <product>
+    <name>4 GB Navegación libre $300. 30 Días</name>
+    <sku>PQDAMOV300INT</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 30 días. 4 GB Navegación libre</info>
+  </product>
+  <product>
+    <name>SIMPATI $20 pesos</name>
+    <sku>PQ00SIM020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS y WhatsApp Ilimitado. Navegacion 50MB. Vigencia 3 dìas. Mayor informacion *777</info>
+  </product>
+  <product>
+    <name>SIMPATI $50 pesos</name>
+    <sku>PQ00SIM050A</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS , WhatsApp, FB y TW Ilimitado. Navegacion 200MB. Vigencia 10 dìas. Mayor informacion *777</info>
+  </product>
+  <product>
+    <name>SIMPATI $100 pesos</name>
+    <sku>PQ00SIM100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS , WhatsApp, FB y TW Ilimitado. Navegacion 500MB. Vigencia 25 dìas. Mayor informacion *777</info>
+  </product>
+  <product>
+    <name>SIMPATI $150 pesos</name>
+    <sku>PQ00SIM150A</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS , WhatsApp, FB y TW Ilimitado. Navegacion 1GB. Vigencia 30 dìas. Mayor informacion *777</info>
+  </product>
+  <product>
+    <name>SIMPATI $300 pesos</name>
+    <sku>PQ00SIM300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS , WhatsApp, FB y TW Ilimitado. Navegacion 2GB. Vigencia 30 dìas. Mayor informacion *777</info>
+  </product>
+  <product>
+    <name>SIMPATI $500 pesos</name>
+    <sku>PQ00SIM500A</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Llamadas, SMS , WhatsApp, FB y TW Ilimitado. Navegacion 4GB. Vigencia 30 dìas. Mayor informacion *777</info>
+  </product>
+  <product>
+    <name>Internet $10. 1 día (35MB+1GBWA) </name>
+    <sku>PQDAMOV010A</sku>
+    <monto>10</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 1 día. 35MB+1GBWA</info>
+  </product>
+  <product>
+    <name>YouTube Netflix 1 día</name>
+    <sku>PQDAMOV020A</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>YouTube + Netflix 1 día 100MB</info>
+  </product>
+  <product>
+    <name>Internet $30. 3 días (100MB+1 GB WA,TW,FB) </name>
+    <sku>PQDAMOV030A</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 3 días. 100MB+1 GB WA,TW,FB</info>
+  </product>
+  <product>
+    <name>YouTube Netflix 3 días</name>
+    <sku>PQDAMOV040A</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>YouTube + Netflix 3 días 300MB</info>
+  </product>
+  <product>
+    <name>Internet $60. 7 días (200MB+1 GB WA,FB,TW)</name>
+    <sku>PQDAMOV060A</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 7 días.200MB+1 GB WA,FB,TW</info>
+  </product>
+  <product>
+    <name>Internet $80. 15 días (450MB+1 GB WA,FB,TW) </name>
+    <sku>PQDAMOV080A</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 15 días. 450MB+1 GB WA,FB,TW</info>
+  </product>
+  <product>
+    <name>YouTube Netflix 7 días.</name>
+    <sku>PQDAMOV100A</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>YouTube + Netflix 7 días 1,500 MB.</info>
+  </product>
+  <product>
+    <name>Internet $120. 21 días(750M+1 GB WA,FB,TW) </name>
+    <sku>PQDAMOV120A</sku>
+    <monto>120</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 21 días. 750M+1 GB WA,FB,TW</info>
+  </product>
+  <product>
+    <name>Internet $200. 30 días(1.5GB+2 GB WA,FB,TW) </name>
+    <sku>PQDAMOV200A</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 30 días. 1.5GB+2 GB WA,FB,TW</info>
+  </product>
+  <product>
+    <name>Internet $300. 30 días(3 GB+2 GB WA,FB,TW)</name>
+    <sku>PQDAMOV300A</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Vigencia del paquete 30 días. 3 GB+2 GB WA,FB,TW</info>
+  </product>
+  <product>
+    <name>Amigo Sin Límite 20 </name>
+    <sku>PA20</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 100MB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN 200MB, Vigencia 1 día.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 30 </name>
+    <sku>PA30</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 120MB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN 300MB, Vigencia 3 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 50 </name>
+    <sku>PA50</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 300MB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG 500MB, Vigencia 7 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 80 </name>
+    <sku>PA80</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 400MB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG 1GB, Vigencia 13 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 100 </name>
+    <sku>PA100</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 800MB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG Ilimitadas, Vigencia 17 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 150 </name>
+    <sku>PA150</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 1GB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG Ilimitadas, Vigencia 28 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 200 </name>
+    <sku>PA200</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 1.5GB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG Ilimitadas, Vigencia 30 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 300</name>
+    <sku>PA300</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 2.5GB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG Ilimitadas, Vigencia 33 días.</info>
+  </product>
+  <product>
+    <name>Amigo sin Limite 500</name>
+    <sku>PA500</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 5GB, Llamadas, SMS y WhatsApp ilimitados, Redes FB TW MSN SNAP IG Ilimitadas, Vigencia 33 días.</info>
+  </product>
+  <product>
+    <name>Internet 20 </name>
+    <sku>INT20</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 50MB, Vigencia 1 día.</info>
+  </product>
+  <product>
+    <name>Internet 30 </name>
+    <sku>INT30</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 100MB, Vigencia 3 días.</info>
+  </product>
+  <product>
+    <name>Internet 50 </name>
+    <sku>INT50</sku>
+    <monto>50</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 200MB, Vigencia 7 día.</info>
+  </product>
+  <product>
+    <name>Internet 100 </name>
+    <sku>INT100</sku>
+    <monto>100</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 1500MB, Vigencia 17 días.</info>
+  </product>
+  <product>
+    <name>Internet 150 </name>
+    <sku>INT150</sku>
+    <monto>150</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 3000MB, Vigencia 28 días.</info>
+  </product>
+  <product>
+    <name>Internet 200 </name>
+    <sku>INT200</sku>
+    <monto>200</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 4000MB, Vigencia 30 días.</info>
+  </product>
+  <product>
+    <name>Internet 300 </name>
+    <sku>INT300</sku>
+    <monto>300</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 7000MB, Vigencia 33 días.</info>
+  </product>
+  <product>
+    <name>Internet 500 </name>
+    <sku>INT500</sku>
+    <monto>500</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info>Navegación 13000MB, Vigencia 33 días.</info>
+  </product>
+  <product>
+    <name>OPCION 1 $20 pesos</name>
+    <sku>0128PQ0ROB020S</sku>
+    <monto>20</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 1 Mes</info>
+  </product>
+  <product>
+    <name>OPCION 2 $40 pesos</name>
+    <sku>0128PQ0ROB040S</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 1 Mes</info>
+  </product>
+  <product>
+    <name>OPCION 3 $60 pesos</name>
+    <sku>0128PQ0ROB060S</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 1 Mes</info>
+  </product>
+  <product>
+    <name>OPCION 1 $30 pesos</name>
+    <sku>0129PQ0ROB030S</sku>
+    <monto>30</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 2 Meses</info>
+  </product>
+  <product>
+    <name>OPCION 2 $60 pesos</name>
+    <sku>0129PQ0ROB060S</sku>
+    <monto>60</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 2 Meses</info>
+  </product>
+  <product>
+    <name>OPCION 3 $90 pesos</name>
+    <sku>0129PQ0ROB090S</sku>
+    <monto>90</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 2 Meses</info>
+  </product>
+  <product>
+    <name>OPCION 1 $40 pesos</name>
+    <sku>0130PQ0ROB040S</sku>
+    <monto>40</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 3 Meses</info>
+  </product>
+  <product>
+    <name>OPCION 2 $80 pesos</name>
+    <sku>0130PQ0ROB080S</sku>
+    <monto>80</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 3 Meses</info>
+  </product>
+  <product>
+    <name>OPCION 3 $110 pesos</name>
+    <sku>0130PQ0ROB110S</sku>
+    <monto>110</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$</regex>
+    <info>Vigencia 3 Meses</info>
+  </product>
+  <product>
+    <name>SEGURO NEGOCIO</name>
+    <sku>0131PQ0ROB255S</sku>
+    <monto>255</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>0</regex>
+    <info>Vigencia XX</info>
+  </product>
+  <product>
+    <name>FOX_PLAY</name>
+    <sku>133PQ0FOX0199T</sku>
+    <monto>199</monto>
+    <minimo>0</minimo>
+    <maximo>0</maximo>
+    <checksku>0</checksku>
+    <regex>[0-9]{10}</regex>
+    <info> 1 Mes</info>
+  </product>
+  <product>
+    <name>STAR_TV</name>
+    <sku> 134PQ0S10STA0A </sku>
+    <monto>0</monto>
+    <minimo>0</minimo>
+    <maximo>8000</maximo>
+    <checksku>0</checksku>
+    <regex>^[0-9]{30}$</regex>
+    <info>Vigencia XX</info>
+  </product>
+</root>

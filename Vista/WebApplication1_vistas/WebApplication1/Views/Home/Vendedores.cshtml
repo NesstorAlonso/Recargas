@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "Vendedores";
+}
+
+<div class="container">
+    <div class="block-header">
+        <h2><strong>Mis Vendedores</strong></h2>
+    </div>
+    <div class="body">
+        <ul class="form-inline mr-auto">
+            <div class="form-inline mr-auto search">
+                <strong id="spanCompania"></strong> &nbsp;&nbsp; <em id="spanNombreC"></em>
+            </div>
+            <a href="#defaultModal" data-toggle="modal" data-target="#modalVendedor">
+                <button class="btn btn-success btn-round" id="btnAgregarVendedores">Agregar Vendedores <i class="zmdi zmdi-plus"></i> </button>
+            </a>
+        </ul>
+    </div>
+    <div class="card">
+        <div class="body">
+            <div class="row clearfix">
+                <div class="table-responsive col-lg-12">
+                    <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbANUsersVendedores">
+                        <thead>
+                            <tr>
+
+                                <th>Usuario</th>
+                                <th>Nombre</th>
+                                <th>Telefono</th>
+                                <th>Editar</th>
+                                <th>Bloquear</th>
+                            </tr>
+                        </thead>
+                        @*<tfoot>
+                            <tr>
+                                <th>ID Carrier</th>
+                                <th>Carrier</th>
+                                <th>Comision</th>
+                                <th>Unidad</th>
+                            </tr>
+                            </tfoot>*@
+                        <tbody>
+                            <tr>
+                                @*<td>1</td>
+                                    <td>ZonaInt</td>
+                                    <td>zonaint</td>
+                                    <td>$0.00</td>
+                                    <td>Arturo</td>
+                                    <td>2787388006</td>
+                                    <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-sort-amount-desc"></i></button></td>
+                                    <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-card"></i></button></td>
+                                    <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-balance"></i></button></td>
+                                    <td><button class="button button-small delete" title="Eliminar usuario"><i class="zmdi zmdi-edit"></i></button></td>*@
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

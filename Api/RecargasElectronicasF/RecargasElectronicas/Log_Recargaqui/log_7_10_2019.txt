@@ -1,0 +1,53 @@
+
+GetTResquestID,request,7/10/2019 14:7:11:808,recelectronicas,WRVqk1DM,,,,;
+response,14:7:11:887,fd5c005a1af2492aa138d134b2e3a381;
+
+DoT,request,7/10/2019
+14:7:11:900,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,029000000100A,4271193199,100;
+response, 7/10/2019 14:7:13:555,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:13:561,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:15:152,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:15:158,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:16:751,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:16:753,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:18:332,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:18:334,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:19:900,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:19:903,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:21:496,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:21:499,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:23:79,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:23:81,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:24:673,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:24:675,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:26:252,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:26:254,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:7:27:829,4271193199,,2,EN_PROCESO,2992;
+
+CheckTransaction,request,7/10/2019 14:7:27:832,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+CheckTransaction,response,7/10/2019 14:7:37:836,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,7/10/2019 14:7:37:838,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+CheckTransaction,response,7/10/2019 14:7:47:843,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,7/10/2019 14:7:47:846,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+CheckTransaction,response,7/10/2019 14:7:57:861,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,7/10/2019 14:7:57:863,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+CheckTransaction,response,7/10/2019 14:8:7:866,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,7/10/2019 14:8:7:869,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+CheckTransaction,response,7/10/2019 14:8:17:884,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,7/10/2019 14:8:17:886,recelectronicas,fd5c005a1af2492aa138d134b2e3a381,,,,;
+response,7/10/2019 14:8:17:887,4271193199,2992,99,El tiempo de espera para la transaccion ha expirado,
+La transaccion: fd5c005a1af2492aa138d134b2e3a381 Agoto el tiempo de espera en el servidor;

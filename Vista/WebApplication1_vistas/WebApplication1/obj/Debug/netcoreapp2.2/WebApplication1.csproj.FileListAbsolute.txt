@@ -1,0 +1,612 @@
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\Dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Desktop\05-18-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\14-08-19Biien\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\20-08-19F1\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\RODAS\Downloads\30-08-19F\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddCompania.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Complementos.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\11-10-19Fu\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\Connected Services\ServiceReference1\ConnectedService.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddCompania.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Complementos.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogout.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dell\source\repos\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddCompania.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Complementos.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogout.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\RODAS\Downloads\07-11-19\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\Connected Services\ServiceReference1\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\web.config
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddCompania.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Complementos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogout.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistasCorregidooptimizar\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\Connected Services\ServiceReference1\ConnectedService.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\web.config
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddCompania.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Complementos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogout.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Activacion.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ContraRec.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\OlvidoCont.cshtml.g.cs
+C:\Users\Dell\Desktop\Correcciones\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AltaVendedor.cshtml.g.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.input.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.TagHelpers.output.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorCoreGenerate.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Abonos.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Activacion.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddCompania.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AltaVendedor.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AvisoPagos.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Clientes.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Comisiones.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Complementos.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\ContraRec.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cuenta.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Distribuidores.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditarUsuario.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\EstatusAvisosDepositos.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Favoritos.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\InfoCuenta.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Inicio.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Movimientos.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\OlvidoCont.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pines.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Promociones.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prueba.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVenta.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rclientes.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Registro.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regPuntoVenta.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\regUsuario.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Rusuarios.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Salir.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Servicios.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\SubirLogo.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TiempoAire.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TraSaldo.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Usuarios2.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Vendedores.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\VerDetalles.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogout.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+M:\Dulce\1.-2020\3.-Recargas\Para modificar\RecargaCelular Servidor\WebApplication1_vistas\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete

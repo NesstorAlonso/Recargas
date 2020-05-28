@@ -1,0 +1,346 @@
+
+GetTResquestID,request,15/10/2019 11:27:37:952,recelectronicas,WRVqk1DM,,,,;
+response,11:27:38:84,43ce6acd993b4d46ac8f944dadeed4ba;
+
+DoT,request,15/10/2019
+11:27:38:90,recelectronicas,43ce6acd993b4d46ac8f944dadeed4ba,002000000010A,8461050722,10;
+response, 15/10/2019 11:27:39:204,8461050722,217458,0,Transaccion Aprobada,3036;
+
+GetTResquestID,request,15/10/2019 11:31:1:948,recelectronicas,WRVqk1DM,,,,;
+response,11:31:2:88,c1086e57875642e6a88d7bc44de9624e;
+
+DoT,request,15/10/2019
+11:31:2:92,recelectronicas,c1086e57875642e6a88d7bc44de9624e,002000000010A,8461050722,10;
+response, 15/10/2019 11:31:3:184,8461050722,879042,0,Transaccion Aprobada,3037;
+
+GetTResquestID,request,15/10/2019 12:37:44:984,recelectronicas,WRVqk1DM,,,,;
+response,12:37:45:233,4513c11405f8401aa62e8e560d11ce12;
+
+DoT,request,15/10/2019
+12:37:45:244,recelectronicas,4513c11405f8401aa62e8e560d11ce12,002000000010A,8461050722,10;
+response, 15/10/2019 12:37:46:374,8461050722,384474,0,Transaccion Aprobada,3048;
+
+GetTResquestID,request,15/10/2019 12:55:42:784,recelectronicas,WRVqk1DM,,,,;
+response,12:55:42:921,9d4bbafe975d4eaaa7c064e8cdccedda;
+
+DoT,request,15/10/2019
+12:55:42:926,recelectronicas,9d4bbafe975d4eaaa7c064e8cdccedda,002000000010A,2727197460,10;
+response, 15/10/2019 12:55:43:34,2727197460,,98,Servicio no disponible en este momento(1),0;
+
+CheckTransaction,request,15/10/2019 12:55:43:56,recelectronicas,9d4bbafe975d4eaaa7c064e8cdccedda,,,,;
+response,15/10/2019 12:55:43:150,2727197460,,98,Servicio no disponible en este momento(1),0;
+
+GetTResquestID,request,15/10/2019 12:56:54:346,recelectronicas,WRVqk1DM,,,,;
+response,12:56:54:429,6297639b7f404f2b8fa5c41ec9179d94;
+
+DoT,request,15/10/2019
+12:56:54:434,recelectronicas,6297639b7f404f2b8fa5c41ec9179d94,002000000010A,8461050722,10;
+response, 15/10/2019 12:56:55:789,8461050722,919348,0,Transaccion Aprobada,3051;
+
+GetTResquestID,request,15/10/2019 16:47:58:901,recelectronicas,WRVqk1DM,,,,;
+response,16:47:59:52,d80a47898fb9499a8c4758cbf48f713e;
+
+DoT,request,15/10/2019
+16:47:59:58,recelectronicas,d80a47898fb9499a8c4758cbf48f713e,002000000010A,8461050722,10;
+response, 15/10/2019 16:48:0:161,8461050722,728703,0,Transaccion Aprobada,3060;
+
+GetTResquestID,request,15/10/2019 17:1:45:563,recelectronicas,WRVqk1DM,,,,;
+response,17:1:45:644,a3a6620b3603400eb9e84b836cd12fed;
+
+DoT,request,15/10/2019
+17:1:45:650,recelectronicas,a3a6620b3603400eb9e84b836cd12fed,002000000010A,8461050722,10;
+response, 15/10/2019 17:1:46:766,8461050722,946170,0,Transaccion Aprobada,3061;
+
+GetTResquestID,request,15/10/2019 17:2:31:431,recelectronicas,WRVqk1DM,,,,;
+response,17:2:31:494,ee62354ebb404c96aab70c1ed6220698;
+
+DoT,request,15/10/2019
+17:2:31:498,recelectronicas,ee62354ebb404c96aab70c1ed6220698,004000000020A,6521035241,20;
+response, 15/10/2019 17:2:33:106,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:33:188,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:34:754,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:34:760,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:36:357,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:36:362,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:37:962,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:37:967,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:39:580,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:39:585,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:41:153,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:41:158,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:43:36,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:43:42,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:44:691,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:44:696,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:46:283,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:46:288,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:47:862,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:47:867,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:49:427,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:49:432,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:51:14,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:51:20,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:52:616,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:52:620,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:54:211,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:54:215,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:55:836,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:55:841,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:57:430,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:57:435,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:2:59:32,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:2:59:38,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:2:196,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:2:201,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:4:586,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:4:590,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:6:183,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:6:187,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:7:780,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:7:785,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:9:381,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:9:386,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:10:978,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:10:982,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:12:594,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:12:598,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:14:210,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:14:214,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:15:789,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:15:794,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:17:398,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:17:403,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:19:7,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:19:12,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:19:580,6521035241,,2,EN_PROCESO,3062;
+
+CheckTransaction,request,15/10/2019 17:3:19:586,recelectronicas,ee62354ebb404c96aab70c1ed6220698,,,,;
+response,15/10/2019 17:3:19:647,6521035241,807264,0,Transaccion Aprobada,3062;
+
+GetTResquestID,request,15/10/2019 17:17:11:283,recelectronicas,WRVqk1DM,,,,;
+response,17:17:11:340,aa5d155236b3441e87e3cd47aca0b85a;
+
+DoT,request,15/10/2019
+17:17:11:346,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,004000000020A,6521035241,20;
+response, 15/10/2019 17:17:12:966,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:13:8,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:14:604,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:14:615,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:16:187,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:16:192,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:17:786,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:17:792,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:19:401,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:19:408,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:21:25,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:21:29,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:22:631,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:22:636,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:24:961,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:24:967,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:26:542,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:26:547,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:28:120,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:28:125,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:29:723,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:29:727,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:31:326,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:31:330,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:32:933,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:32:938,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:35:951,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:35:957,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:37:720,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:37:725,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:39:368,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:39:373,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:40:956,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:40:961,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:42:558,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:42:566,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:44:146,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:44:151,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:45:784,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:45:789,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:47:380,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:47:385,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:48:980,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:48:985,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:50:571,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:50:575,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:52:175,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:52:180,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:53:761,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:53:765,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:55:357,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:55:361,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:57:95,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:57:100,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:17:58:720,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:17:58:725,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:18:0:613,6521035241,,2,EN_PROCESO,3063;
+
+CheckTransaction,request,15/10/2019 17:18:0:619,recelectronicas,aa5d155236b3441e87e3cd47aca0b85a,,,,;
+response,15/10/2019 17:18:0:990,6521035241,078520,0,Transaccion Aprobada,3063;
+
+GetTResquestID,request,15/10/2019 17:52:36:857,recelectronicas,WRVqk1DM,,,,;
+response,17:52:37:22,0fb0f432630b4d358c2ceedca8af4edf;
+
+DoT,request,15/10/2019
+17:52:37:29,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,004000000020A,6521035241,20;
+response, 15/10/2019 17:52:38:700,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:38:724,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:40:330,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:40:337,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:41:941,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:41:949,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:43:548,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:43:555,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:45:169,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:45:175,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:46:751,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:46:755,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:48:317,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:48:352,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:49:939,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:49:944,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:51:549,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:51:554,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:53:161,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:53:166,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:54:753,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:54:757,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:56:350,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:56:355,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:57:962,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:57:967,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:52:59:559,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:52:59:565,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:1:164,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:1:170,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:2:746,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:2:750,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:4:350,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:4:354,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:6:683,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:6:689,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:8:274,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:8:279,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:9:866,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:9:871,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:11:469,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:11:474,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:13:77,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:13:83,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:14:681,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:14:685,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:16:273,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:16:277,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:17:877,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:17:881,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:19:479,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:19:484,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:21:80,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:21:86,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:22:667,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:22:671,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:24:275,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:24:280,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:25:879,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:25:884,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:27:476,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:27:480,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:29:68,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:29:72,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:30:644,6521035241,,2,EN_PROCESO,3065;
+
+CheckTransaction,request,15/10/2019 17:53:30:650,recelectronicas,0fb0f432630b4d358c2ceedca8af4edf,,,,;
+response,15/10/2019 17:53:30:704,6521035241,201013,0,Transaccion Aprobada,3065;

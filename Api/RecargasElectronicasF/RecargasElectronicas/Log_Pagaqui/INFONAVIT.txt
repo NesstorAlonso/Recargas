@@ -1,0 +1,41 @@
+
+GetTResquestID,request,29/10/2019 12:45:27:722,recelectronicas,WRVqk1DM,,,,;
+response,12:45:27:841,5d600614cb1146cc94cfea98dce33992;
+
+DoT,request,29/10/2019
+12:45:27:846,recelectronicas,5d600614cb1146cc94cfea98dce33992,040PQ0S10INF0A,2412017413,1500;
+response, 29/10/2019 12:45:29:460,2412017413,,2,EN_PROCESO,2061851883;
+
+CheckTransaction,request,29/10/2019 12:45:29:466,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+response,29/10/2019 12:45:31:43,2412017413,,2,EN_PROCESO,2061851883;
+
+CheckTransaction,request,29/10/2019 12:45:31:48,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+response,29/10/2019 12:45:32:614,2412017413,,2,EN_PROCESO,2061851883;
+
+CheckTransaction,request,29/10/2019 12:45:32:619,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+response,29/10/2019 12:45:34:254,2412017413,,2,EN_PROCESO,2061851883;
+
+CheckTransaction,request,29/10/2019 12:45:34:258,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+response,29/10/2019 12:45:35:896,2412017413,,2,EN_PROCESO,2061851883;
+
+CheckTransaction,request,29/10/2019 12:45:35:900,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+response,29/10/2019 12:45:37:491,2412017413,,2,EN_PROCESO,2061851883;
+
+CheckTransaction,request,29/10/2019 12:45:37:495,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+CheckTransaction,response,29/10/2019 12:45:47:502,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 12:45:47:507,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+CheckTransaction,response,29/10/2019 12:45:57:516,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 12:45:57:523,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+CheckTransaction,response,29/10/2019 12:46:7:530,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 12:46:7:536,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+CheckTransaction,response,29/10/2019 12:46:17:549,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 12:46:17:554,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+CheckTransaction,response,29/10/2019 12:46:27:564,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 12:46:27:569,recelectronicas,5d600614cb1146cc94cfea98dce33992,,,,;
+response,29/10/2019 12:46:27:576,2412017413,2061851883,99,El tiempo de espera para la transaccion ha expirado,
+La transaccion: 5d600614cb1146cc94cfea98dce33992 Agoto el tiempo de espera en el servidor;

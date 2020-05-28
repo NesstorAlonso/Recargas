@@ -1,0 +1,225 @@
+﻿@{
+    ViewData["Title"] = "InfoCuenta";
+}
+
+    <section class="content invoice">
+        <div class="container">
+            <div class="block-header">
+                <div class="row clearfix">
+                    <div class="col-lg-5 col-md-5 col-sm-12">
+                        @*<h2>Usuarios</h2>*@
+                    </div>
+                </div>
+            </div>
+            <div class="row clearfix">
+                <div class="col-lg-12">
+                    <div class="body">
+                        <ul class="form-inline mr-auto">
+                            <div class="form-inline mr-auto search">
+                            </div>
+                            <a asp-area="" asp-controller="Home" asp-action="AvisoPagos">
+                                <button class="btn btn-success btn-round" id="btnAgregarVendedores">Reportar Deposito <i class="zmdi zmdi-plus"></i> </button>
+                            </a>
+                        </ul>
+                    </div>
+                    @*<div class="card">
+                        <div class="col-lg-4 col-md-4">
+
+                        </div>
+                        <div class="body">
+                            <div class="form-inline">
+                                <label class="m-b-10">Periodo :<strong class="text-primary"></strong></label> &nbsp
+                                <select> <option>Mes Actual</option><option>Mes anterior</option></select>
+                                &nbsp&nbsp&nbsp&nbsp
+                                <label for="pwd">Buscar por fecha:</label>
+                                &nbsp&nbsp&nbsp&nbsp
+                                <label>Fecha inicial </label>
+                                &nbsp
+                                <input type="date" class="form-control">
+                                &nbsp&nbsp&nbsp&nbsp
+                                <label>Fecha Final </label>
+                                &nbsp
+                                <input type="date" class="form-control">
+                                &nbsp&nbsp&nbsp&nbsp
+                                <button type="button" class="btn btn-default btn-round">Buscar</button>
+                            </div>
+                        </div>
+                    </div>*@
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane in active" id="details" aria-expanded="true">
+                            <div class="card" id="details">
+                                <div class="body">
+                                    <div class="row">
+                                        <div class="col-md-6 col-sm-6">
+                                            <address>
+                                                <strong>Comercializadora SA .</strong><br>
+                                                745 Orizaba, Veracruz<br>
+                                                Orizaba, CP 94300<br>
+                                                <abbr title="Telefono">Telefono:</abbr> (272) 1234567
+                                            </address>
+                                        </div>
+                                        <div class="col-md-6 col-sm-6 text-right">
+                                        </div>
+                                    </div>
+                                    <button id="btnPendiente" class="btn btn-default btn-round">Pendientes</button>
+                                    <button id="btnDepositos" class="btn btn-default btn-round">Depositos</button>
+                                    <div class="card m-4">
+                                        <div class="body">
+                                            <div class="row clearfix">
+                                                <div class="table-responsive col-lg-12">
+                                                    @*Buscador*@
+                                                    <div id="buscaSaldoinfoCuenta" class="card">
+                                                        <div class="body m-3">
+                                                            <div class="form-inline">
+
+                                                                &emsp;&emsp;&emsp;&emsp;&emsp;
+                                                                <label>Busqueda por Fecha</label>
+                                                                &emsp;&emsp;
+                                                                <label>Inicio:</label>
+                                                                &emsp;
+                                                                <input type="date" id="dtmFechaIInfoCuenta" class="form-control col-lg-2">
+                                                                &emsp;&emsp;&emsp;&emsp;&emsp;
+                                                                <label>Final:</label>
+                                                                &emsp;
+                                                                <input type="date" id="dtmFechaFInfoCuenta" class="form-control">
+                                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                <button type="button" id="FBFechaInfoCuenta" class="btn btn-default btn-round">Buscar</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    @*Buscador por nombre*@
+                                                    <div id="buscaNombreinfoCuenta" class="card">
+                                                        <div class="body m-3">
+                                                            <div class="form-inline">
+                                                                <label>Busqueda por Nombre :</label>
+                                                                &emsp;
+                                                                <input type="text" id="NombreIC" class="form-control col-lg-2" placeholder="Nombre">
+                                                                &emsp;&emsp;&emsp;&emsp;
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbDepositos">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Fecha Deposito</th>
+                                                                <th>Cliente</th>
+                                                                <th>Monto</th>
+                                                                <th>Banco</th>
+                                                                <th>Estatus</th>
+                                                            </tr>
+                                                        </thead>
+
+                                                        <tbody>
+                                                            <tr>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+
+
+                                        <div class="hidden-print col-md-12 text-right">
+                                            <hr>
+                                            <button class="btn btn-warning btn-icon  btn-icon-mini btn-round"><i class="zmdi zmdi-print"></i></button>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="notes" aria-expanded="false">
+                            <div class="card" id="details">
+                                <div class="body">
+                                    <div class="row">
+                                        <div class="col-md-6 col-sm-6">
+                                            <address>
+                                                <strong>Comercializadora SA .</strong><br>
+                                                745 Orizaba, Veracruz<br>
+                                                Orizaba, CP 94300<br>
+                                                <abbr title="Telefono">Telefono:</abbr> (272) 1234567
+                                            </address>
+                                        </div>
+                                        <div class="col-md-6 col-sm-6 text-right">
+                                        </div>
+                                    </div>
+                                    <div class="mt-40"></div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="table-responsive">
+                                                <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
+                                                    <thead class="thead-dark">
+                                                        <tr>
+                                                            <th>Concepto</th>
+                                                            <th>Abonos</th>
+                                                            <th>Cargos</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>Saldo Inicial</td>
+                                                            <td>$500.00</td>
+                                                            <td> - </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Compras</td>
+                                                            <td>$0.00</td>
+                                                            <td> - </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Traspasos</td>
+                                                            <td> - </td>
+                                                            <td>$0.00</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Ventas</td>
+                                                            <td> - </td>
+                                                            <td>$0.00</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Comisión</td>
+                                                            <td> - </td>
+                                                            <td>$0.00</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Utilidades Directas</td>
+                                                            <td>$0.00</td>
+                                                            <td> - </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Utilidades Indirectas</td>
+                                                            <td>$0.00</td>
+                                                            <td> - </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Saldo Final</td>
+                                                            <td>$0.00</td>
+                                                            <td> - </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Cantidad de transacciones con cargo</td>
+                                                            <td>  </td>
+                                                            <td>0</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="hidden-print col-md-12 text-right">
+                                            <hr>
+                                            <button class="btn btn-warning btn-icon  btn-icon-mini btn-round"><i class="zmdi zmdi-print"></i></button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

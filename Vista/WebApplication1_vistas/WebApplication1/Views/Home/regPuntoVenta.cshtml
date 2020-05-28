@@ -1,0 +1,152 @@
+﻿
+@{
+    ViewData["Title"] = "Registrar punto de venta";
+}
+
+    <script type="text" src="~/js/peticionesClienteUsuario.js">
+    </script>
+<script src="~/js/GoogleMap.js"></script>
+
+<div class="container">
+    <div class="block-header">
+        <h2><strong>Registrar</strong> punto de venta</h2>
+    </div>
+
+        <div class="card">
+            <div class="body">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Nombre / Punto de venta: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Nombre / Punto de venta" id="txtNomPV">
+                        </div>
+                    </div>
+                    @*<div class="col-lg-6 col-md-12">
+            <p class="my-2">Permisos de usuario </p>
+            <div class="form-group">
+                <select id="PermisoUsuario" class="form-control show-tick" onchange="javascript:EnableDisable(this);">
+                    <option value="adminis">Administración</option>
+                    <option value="repo">Reportes</option>
+                    <option value="sove">Solo venta</option>
+                    <option value="sole">Solo lectura</option>
+                </select>
+            </div>
+        </div>*@
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Calle: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Calle" id="txtCalle">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Número exterior: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Número exterior"id="txtNumExt">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Número interior: </p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Número interior" id="txtNumInt">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Codigo postal: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Código postal" id="txtCodPos">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Municipio / Delegación: </p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Municipio / Delegación" id="txtMunicipio">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Colonia: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Colonia" id="txtColonia">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Estado: </p>
+                        <div class="form-group">
+                            <select class="form-control show-tick" id="txtEstado">
+                                <option value="Todo México"disabled selected>Todo México</option>
+                                <option value="Aguascalientes">Aguascalientes</option>
+                                <option value="Baja California">Baja California</option>
+                                <option value="Baja California Sur">Baja California Sur</option>
+                                <option value="Campeche">Campeche</option>
+                                <option value="Coahuila de Zaragoza">Coahuila de Zaragoza</option>
+                                <option value="Colima">Colima</option>
+                                <option value="Chiapas">Chiapas</option>
+                                <option value="Chihuahua">Chihuahua</option>
+                                <option value="Distrito Federal">Distrito Federal</option>
+                                <option value="Durango">Durango</option>
+                                <option value="Guanajuato">Guanajuato</option>
+                                <option value="Guerrero">Guerrero</option>
+                                <option value="Hidalgo">Hidalgo</option>
+                                <option value="Jalisco">Jalisco</option>
+                                <option value="México">México</option>
+                                <option value="Michoacán de Ocampo">Michoacán de Ocampo</option>
+                                <option value="Morelos">Morelos</option>
+                                <option value="Nayarit">Nayarit</option>
+                                <option value="Nuevo León">Nuevo León</option>
+                                <option value="Oaxaca">Oaxaca</option>
+                                <option value="Puebla">Puebla</option>
+                                <option value="Querétaro">Querétaro</option>
+                                <option value="Quintana Roo">Quintana Roo</option>
+                                <option value="San Luis Potosí">San Luis Potosí</option>
+                                <option value="Sinaloa">Sinaloa</option>
+                                <option value="Sonora">Sonora</option>
+                                <option value="Tabasco">Tabasco</option>
+                                <option value="Tamaulipas">Tamaulipas</option>
+                                <option value="Tlaxcala">Tlaxcala</option>
+                                <option value="Veracruz de Ignacio de la Llave">Veracruz de Ignacio de la Llave</option>
+                                <option value="Yucatán">Yucatán</option>
+                                <option value="Zacatecas">Zacatecas</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Latitud: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Latitud" id="txtLatitud2" disabled required> @*pattern="-?\d{1,3}\.\d+">*@
+                        </div><div class="help-info my-2">* Datos obligatorios</div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Longitud: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Longitud" id="txtLongitud2" disabled required> @*pattern="-?\d{1,3}\.\d+">*@
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Responsable: *</p>
+                        <select class="form-control show-tick" id="txtResponsable">
+                            <option value="0" selected></option>
+                        </select>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2"></p>
+                        
+                    </div>
+
+
+
+                    <div class="col-lg-5 col-md-5">
+                        <button class="btn btn-success btn-round" id="btnGuardapunto">Guardar punto de venta <i class="zmdi zmdi-floppy"></i> </button>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        <button class="btn btn-danger btn-round" id="btnCancelar">
+                            Cancelar <i class="zmdi zmdi-close"></i>
+                        </button>
+                    </div>                  
+                    <div class="col-lg-4 col-md-4">
+                        <button class="btn btn-info btn-round" id="btnCapturar" data-toggle="modal" data-target="#defaultModalgMap">
+                            Capturar posición <i class="zmdi zmdi-map"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>

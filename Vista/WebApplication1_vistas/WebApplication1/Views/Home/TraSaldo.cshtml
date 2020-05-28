@@ -1,0 +1,135 @@
+﻿
+@{
+    ViewData["Title"] = "TraSaldo";
+}
+<style type="text/css">
+    table td:nth-child(3) {
+        text-align: right;
+    }
+
+    table td:nth-child(4) {
+        text-align: right;
+    }
+</style>
+<section class="content invoice">
+    <div class="container">
+        <div class="block-header">
+            <div class="row clearfix">
+                <div class="col-lg-5 col-md-5 col-sm-12">
+                    @*<h2>Usuarios</h2>*@
+                </div>
+            </div>
+        </div>
+        <div class="row clearfix">
+            <div class="col-lg-12">
+                <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane in active" id="details" aria-expanded="true">
+                        <div class="card" id="details">
+                            <div class="body">
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-6">
+                                        <address>
+                                            <strong>Comercializadora SA .</strong><br>
+                                            745 Orizaba, Veracruz<br>
+                                            Orizaba, CP 94300<br>
+                                            <abbr title="Telefono">Telefono:</abbr> (272) 1234567
+                                        </address>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 text-right">
+                                        <h>Saldo Actual</h><br /><br />
+                                        @*<h4>$<small class="number count-to" data-from="0" data-to="2500" data-speed="1500" data-fresh-interval="1000">2124</small></h4>*@
+                                        <h5><b>$</b><em class="moneyTracSaldoSpan" id="SpanMontoTS"></em></h5>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="body">
+                                        <div class="form-inline m-3">
+                                            <label><b>Enviar a :</b><strong class="text-primary"></strong></label> &nbsp
+
+
+                                            <select class="col-lg-4" id="SeleccionSaldoslt">
+                                                <option value="selected">Seleccione un Usuario</option>
+                                            </select>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <label><b>Cantidad :</b><strong class="text-primary"></strong></label> &nbsp
+                                            <i class="zmdi zmdi-money"></i><input id="dcmMonto" type="text" class="form-control col-lg-4 moneyTracSaldoInput" placeholder="000.00" required>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <button id="btnEnviarTraspasaSaldo" type="button" class="btn btn-default btn-round">Enviar</button>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="body">
+                                        <button id="btnTraspaso" class="btn btn-default btn-round">Traspasos</button>
+                                        <button id="btnHistorial" class="btn btn-default btn-round">Historial</button>
+                                        <div class="table-responsive col-lg-12">
+                                            @*Buscador*@
+                                            <div id="buscaSaldo" class="card">
+                                                <div class="body m-3">
+                                                    <div class="form-inline">
+                                                        @*<label class="m-b-8">Periodo :<strong class="text-primary"></strong></label> &nbsp
+                                                            <select id="slcPeriodo" class="col-lg-2">
+                                                                <option value="Ninguno">Ninguno</option>
+                                                                <option value="MesActual">Mes Actual</option>
+                                                                <option value="MesAnterior">Mes anterior</option>
+                                                            </select>
+                                                            <button class="form-control" id="btnBPeriodoMesActual" type="button"><i class="zmdi zmdi-search"></i></button>
+                                                            <button class="form-control" id="btnBPeriodoMesAnterior" type="button"><i class="zmdi zmdi-search"></i></button>*@
+                                                        &emsp;&emsp;&emsp;&emsp;&emsp;
+                                                        <label>Busqueda por Fecha</label>
+                                                        &emsp;&emsp;
+                                                        <label>Inicio:</label>
+                                                        &emsp;
+                                                        <input type="date" id="dtmFechaI" class="form-control col-lg-2">
+                                                        &emsp;&emsp;&emsp;&emsp;&emsp;
+                                                        <label>Final:</label>
+                                                        &emsp;
+                                                        <input type="date" id="dtmFechaF" class="form-control">
+                                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                        <button type="button" id="FBFecha" class="btn btn-default btn-round">Buscar</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row clearfix m-4">
+                                            <div class="table-responsive col-lg-12">
+                                                @*<div id="buscad" class="card">
+                                                        <div class="col-lg-4 col-md-4">
+
+                                                        </div>
+                                                        <div class="body">
+                                                            <div class="form-inline">
+                                                                <label class="m-b-10">Periodo :<strong class="text-primary"></strong></label> &nbsp
+                                                                <select> <option>Mes Actual</option><option>Mes anterior</option></select>
+                                                                <input type="date" class="form-control">
+                                                                <input type="date" class="form-control">
+                                                                <button type="button" class="btn btn-default btn-round">Buscar</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>*@
+                                                <table class="table table-bordered table-striped table-hover js-basic-example dataTable" id="tbSaldo">
+                                                    <thead align="center">
+                                                        <tr>
+                                                            <th>Fecha</th>
+                                                            <th>Traspaso a</th>
+                                                            <th>Monto</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr></tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+

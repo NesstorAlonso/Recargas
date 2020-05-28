@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewData["Title"] = "AddCompania";
+}
+
+
+<div class="container">
+    <div class="block-header">
+        <h2><strong>Registrar</strong> Compañia</h2>
+    </div>
+
+    <div class="card">
+        <div class="body">
+            <div class="row clearfix">
+                <div class="col-lg-6 col-md-12">
+                    <p class="my-2">Nombre de Compañia: *</p>
+                    <div class="form-group">
+                        <input id="txtCompania" type="text" class="form-control" placeholder="Compañia" minlength="4" required>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <p class="my-2">Status: *</p>
+                    <div class="form-group">
+                        <input id="txtStatus" type="text" class="form-control" placeholder="breve descripcion" minlength="4">
+                    </div>
+                </div>
+                <div class="col-lg-12 col-md-12 body">
+                    @*<form action="/" id="frmFileUpload" class="dropzone" method="post" enctype="multipart/form-data">*@
+                    @*<div class="dropzone">
+        <div class="drag-icon-cph"> <i class="material-icons">touch_app</i> </div>
+        <h3 class="m-b-0">Suelte los archivos aquí o haga clic para cargar.</h3>*@
+                    @*<em>(This is just a demo dropzone. Selected files are <strong>not</strong> actually uploaded.)</em>*@
+                    @*</div>*@
+                    <div class="custom-file">
+                        <input type="file" class="custom-file-input" id="inputFileToLoad" enctype="multipart/form-data">
+                        <label class="custom-file-label" for="customFile">Seleccionar Logo</label>
+                    </div>
+                    @*<div class="fallback">
+            <input id="inputFileToLoad" type="file" />
+        </div>*@
+                    @*</form>*@
+
+                    <input type="text" id="response" class="form-control" placeholder="Base-64 value" />
+                    <input type="text" id="binario" class="form-control" placeholder="Binario" />
+                    <img id="preview" src="" class="img-responsive align-center" style="display: none;" width="200">
+                </div>
+                <div class="col-lg-12 col-md-12 align-center">
+                    <br />
+                    <button class="btn btn-success btn-round" id="btnAgregar">Agregar <i class="zmdi zmdi-save"></i></button>
+                    <button class="btn btn-primary btn-round" id="BaseToImage">Base64 <i class="zmdi zmdi-save"></i></button>
+                    <button class="btn btn-primary btn-round" id="imgElem">preview <i class="zmdi zmdi-save"></i></button>
+                    @*<a asp-area="" asp-controller="Home" asp-action="Usuarios">
+            <button class="btn btn-success btn-round" id="btnAgregar">Agregar <i class="zmdi zmdi-replay"></i></button>
+        </a>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

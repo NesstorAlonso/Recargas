@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "SubirLogo";
+}
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+@*<script src="~/js/Validacion.js"></script>*@
+<script src="~/js/SubirLogos.js"></script>
+
+<div class="container">
+    <div class="block-header">
+        <h2><strong>Subir logo</strong></h2>
+    </div>
+    <div class="card">
+        <div class="body">
+            <b>Logo</b>
+            <br><br>
+
+            <div class="form-inline">
+                &emsp;&emsp;&emsp;&emsp;&emsp;
+                <input type="text" placeholder="Cambiar leyenda" class="form-control" id="txtLeyenda">
+                &emsp;&emsp;&emsp;&emsp;&emsp;
+                <button class="btn btn-default btn-round"><input id="SubirLogotipo" type="file" class=""> <i class="zmdi zmdi-file"></i></button>
+                @*<input id="SubirLogotipo" type="file" class="">*@
+                &emsp;&emsp;&emsp;&emsp;&emsp;
+                <button class="btn btn-default btn-round" id="btnVPrevia">Vista Previa <i class="zmdi zmdi-eye"></i> </button>
+                &emsp;&emsp;&emsp;&emsp;&emsp;
+                <button class="btn btn-success btn-round" id="btnSubirLog">Guardar <i class="zmdi zmdi-plus"></i> </button>
+            </div>
+        </div>
+    </div>
+    <div id="VPre" class="card">
+        <div class="body">
+            <b>Vista Previa</b>
+            <br><br>
+            <div @*style="position: relative; left: 0; top: 0;"*@ class="col-lg-12 col-md-6 align-center">
+                <h6 class="navbar-brand" asp-controller="Home" asp-action="Main" id="Index"><img src="" id="imgB64logo" width="35" alt="Logo"><span id="txtLeyendaP" class="m-l-10">RECARGACELULARES.COM.MX</span></h6>
+                @*<img src="~/assets/images/image-gallery/1.jpg" class="heaven">*@
+            </div>
+        </div>
+    </div>
+
+</div>
+<style>
+    .eye {
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        top: 40px;
+        left: 40px;
+        z-index: 1;
+    }
+
+    .heaven {
+        position: absolute;
+        height: 300px;
+        width: 300px;
+        z-index: -1;
+    }
+</style>

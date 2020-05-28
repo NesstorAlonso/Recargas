@@ -1,0 +1,3088 @@
+
+GetTResquestID,request,22/10/2019 10:35:13:876,recelectronicas,WRVqk1DM,,,,;
+response,10:35:13:944,279c4f16cd70422f8e561df24e4c6e10;
+
+DoT,request,22/10/2019
+10:35:13:949,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:15:686,8461050722,075586,0,Transaccion Aprobada,4108;
+
+DoT,request,22/10/2019
+10:35:16:278,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:16:592,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:16:710,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:16:758,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:16:801,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:16:843,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:16:888,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:16:966,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:16,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:66,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:121,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:167,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:220,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:264,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:319,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:364,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:423,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:464,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:525,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:850,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:17:911,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:17:960,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:29,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:18:87,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:154,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:18:200,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:268,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:18:311,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:386,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:18:431,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:504,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:18:603,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:680,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:18:723,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:18:819,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:174,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:19:258,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:308,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:19:394,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:437,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:19:530,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:573,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:19:666,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:715,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:19:810,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:856,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:19:953,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:19:997,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:20:103,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:20:145,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:20:253,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:20:509,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:20:621,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:20:664,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:20:771,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:20:815,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:20:925,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:20:980,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:21:95,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:21:138,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:21:253,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:21:301,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:21:430,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:21:476,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:21:610,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:22:64,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:22:187,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:22:230,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:22:359,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:22:403,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:22:537,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:22:581,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:22:710,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:22:754,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:22:883,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:22:928,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:23:60,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:23:104,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:23:248,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:23:369,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:23:506,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:23:549,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:23:691,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:23:733,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:23:878,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,001000000020A,8461050722,20;
+response, 22/10/2019 10:35:23:921,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+CheckTransaction,request,22/10/2019 10:35:24:137,recelectronicas,279c4f16cd70422f8e561df24e4c6e10,,,,;
+response,22/10/2019 10:35:24:188,8461050722,075586,0,Transaccion Aprobada,4108;
+
+GetTResquestID,request,22/10/2019 10:35:49:137,recelectronicas,WRVqk1DM,,,,;
+response,10:35:49:191,1c4646e014874746b0f441f5b175af4c;
+
+DoT,request,22/10/2019
+10:35:49:197,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:269,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+10:35:49:312,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:357,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:400,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:449,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:495,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:542,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:588,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:633,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:683,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:728,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:780,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:824,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:883,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:49:926,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:49:985,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:30,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:96,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:158,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:221,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:265,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:338,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:384,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:454,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:499,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:569,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:613,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:727,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:772,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:843,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:50:887,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:50:966,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:10,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:51:88,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:133,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:51:219,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:264,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:51:356,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:400,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:51:486,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:640,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:51:732,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:792,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:51:881,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:51:924,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:20,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:64,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:165,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:225,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:323,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:370,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:467,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:510,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:617,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:660,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:770,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:816,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:52:923,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:52:968,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:53:81,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:53:125,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:53:245,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:53:289,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:53:405,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:53:452,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:53:576,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:53:620,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:53:739,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:53:788,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:53:911,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:53:956,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:54:84,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:54:128,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:54:258,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:54:495,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:54:629,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:54:674,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:54:818,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:54:863,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:55:122,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:55:165,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:55:303,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:55:346,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:55:493,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:55:536,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:55:753,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+response, 22/10/2019 10:35:55:797,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:35:55:944,recelectronicas,1c4646e014874746b0f441f5b175af4c,001000000010A,8461050722,10;
+
+GetTResquestID,request,22/10/2019 10:37:8:529,recelectronicas,WRVqk1DM,,,,;
+response,10:37:8:615,ff0cfe8a2f4a4bed8ddc65338282d7ba;
+
+DoT,request,22/10/2019
+10:37:8:627,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:8:726,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+10:37:8:808,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:8:853,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:8:894,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:8:939,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:8:984,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:28,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:76,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:130,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:182,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:252,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:303,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:348,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:402,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:479,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:534,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:582,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:640,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:686,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:745,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:792,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:856,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:9:902,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:9:966,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:11,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:78,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:124,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:194,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:250,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:322,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:368,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:444,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:491,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:565,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:614,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:693,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:740,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:822,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:10:870,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:10:958,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:11,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:11:113,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:160,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:11:260,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:305,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:11:400,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:447,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:11:539,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:588,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:11:687,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:760,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:11:859,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:11:902,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:12:0,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:12:44,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:12:146,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:12:190,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:12:297,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:12:583,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:12:691,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:12:735,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:12:849,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:12:901,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:13:14,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:13:60,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:13:174,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:13:219,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:13:336,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:13:381,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:13:504,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:13:549,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:13:668,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:13:719,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:13:841,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:13:887,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:14:16,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:14:64,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:14:201,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:14:270,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:14:402,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:14:446,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:14:581,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:14:626,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:14:761,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:14:805,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:14:948,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+response, 22/10/2019 10:37:14:996,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:37:15:141,recelectronicas,ff0cfe8a2f4a4bed8ddc65338282d7ba,001000000010A,8461050722,10;
+
+GetTResquestID,request,22/10/2019 10:56:44:944,recelectronicas,WRVqk1DM,,,,;
+response,10:56:44:998,916129414ca64eb68f12b8a6594ea028;
+
+DoT,request,22/10/2019
+10:56:45:6,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:46:163,8461050722,608585,0,Transaccion Aprobada,4110;
+
+DoT,request,22/10/2019
+10:56:46:589,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:46:633,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:46:676,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:46:725,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:46:767,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:46:811,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:46:855,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:46:906,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:46:951,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:63,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:105,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:151,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:192,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:237,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:278,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:325,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:370,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:415,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:459,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:505,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:550,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:595,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:640,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:686,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:730,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:777,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:824,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:869,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:47:914,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:47:960,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:11,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:58,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:106,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:151,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:199,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:245,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:294,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:350,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:416,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:464,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:516,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:562,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:622,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:667,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:719,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:765,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:820,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:864,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:48:917,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:48:963,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:49:24,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:49:131,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:49:189,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:49:276,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:49:331,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:49:451,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:49:512,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:49:677,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:49:742,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:49:906,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:49:965,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:130,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:188,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:236,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:294,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:338,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:397,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:442,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:497,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:541,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:599,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:648,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:707,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:751,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:841,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:885,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:50:942,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:50:986,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:47,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:51:92,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:152,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:51:203,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:263,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:51:308,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:367,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:51:412,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:473,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:51:517,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:580,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+response, 22/10/2019 10:56:51:625,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:56:51:692,recelectronicas,916129414ca64eb68f12b8a6594ea028,001000000010A,8461050722,10;
+
+GetTResquestID,request,22/10/2019 10:57:31:756,recelectronicas,WRVqk1DM,,,,;
+response,10:57:31:809,8c797120248e426aa45ed1f92b3256bc;
+
+DoT,request,22/10/2019
+10:57:31:816,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:31:917,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+10:57:32:167,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:215,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:263,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:306,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:346,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:390,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:431,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:484,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:525,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:571,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:615,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:662,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:705,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:752,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:805,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:851,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:901,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:32:948,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:32:992,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:36,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:79,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:134,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:182,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:247,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:304,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:350,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:410,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:455,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:502,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:546,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:595,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:640,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:690,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:735,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:782,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:826,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:875,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:33:921,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:33:977,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:22,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:73,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:121,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:172,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:218,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:279,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:324,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:378,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:449,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:503,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:549,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:604,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:648,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:704,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:748,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:804,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:847,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:34:904,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:34:948,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:52,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:97,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:151,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:196,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:250,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:295,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:350,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:394,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:452,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:497,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:556,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:603,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:662,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:708,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:764,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:810,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:869,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:35:921,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:35:982,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:28,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:93,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:151,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:214,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:268,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:332,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:377,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:439,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:492,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:557,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:602,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:668,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:718,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:57:36:784,recelectronicas,8c797120248e426aa45ed1f92b3256bc,001000000010A,8461050722,10;
+response, 22/10/2019 10:57:36:829,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 10:58:57:546,recelectronicas,WRVqk1DM,,,,;
+response,10:58:57:616,2ebdbe2e37b242dd82a461251a7275b3;
+
+DoT,request,22/10/2019
+10:58:57:629,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:58:754,8461050722,376651,0,Transaccion Aprobada,4111;
+
+DoT,request,22/10/2019
+10:58:58:986,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:34,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:66,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:137,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:174,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:224,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:256,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:323,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:355,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:703,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:736,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:781,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:816,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:871,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:905,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:58:59:949,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:58:59:986,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:31,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:68,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:113,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:149,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:193,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:229,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:274,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:313,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:358,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:399,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:445,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:484,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:527,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:569,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:617,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:657,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:720,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:761,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:810,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:851,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:896,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:0:938,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:0:981,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:25,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:73,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:118,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:163,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:211,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:254,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:298,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:341,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:386,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:432,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:481,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:528,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:572,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:627,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:673,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:721,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:769,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:813,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:862,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:1:906,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:1:953,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:3,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:50,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:110,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:158,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:213,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:263,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:310,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:360,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:404,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:457,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:500,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:551,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:595,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:648,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:692,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:745,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:788,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:847,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:2:891,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:2:946,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:3:305,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:3:363,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:3:407,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:3:474,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:3:519,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:3:579,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:3:622,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:3:685,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:3:731,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+10:59:3:786,recelectronicas,2ebdbe2e37b242dd82a461251a7275b3,001000000010A,8461050722,10;
+response, 22/10/2019 10:59:3:830,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 11:1:3:110,recelectronicas,WRVqk1DM,,,,;
+response,11:1:3:183,df79fd56dfde49c09b8596d218bc7676;
+
+DoT,request,22/10/2019
+11:1:3:190,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:4:304,8461050722,894229,0,Transaccion Aprobada,4112;
+
+DoT,request,22/10/2019
+11:1:4:559,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:4:607,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:4:651,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:4:694,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:4:731,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:4:776,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:4:814,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:4:861,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:4:898,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:4:951,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:4:999,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:44,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:86,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:131,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:177,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:221,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:263,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:309,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:351,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:399,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:442,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:487,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:531,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:575,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:619,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:665,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:712,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:761,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:806,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:850,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:5:897,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:5:950,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:1,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:46,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:92,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:136,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:185,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:232,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:281,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:325,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:374,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:423,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:471,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:515,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:567,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:612,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:663,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:716,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:766,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:811,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:863,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:6:907,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:6:961,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:5,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:59,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:106,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:160,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:511,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:563,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:612,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:668,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:713,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:770,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:815,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:870,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:7:915,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:7:972,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:17,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:76,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:121,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:179,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:231,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:302,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:346,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:407,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:454,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:516,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:567,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:630,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:687,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:750,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:818,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:884,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:8:929,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:8:992,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:9:39,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:9:104,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:9:154,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:9:225,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:9:288,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:1:9:360,recelectronicas,df79fd56dfde49c09b8596d218bc7676,001000000010A,8461050722,10;
+response, 22/10/2019 11:1:9:421,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 11:5:8:721,recelectronicas,WRVqk1DM,,,,;
+response,11:5:8:794,e19f01360e8e4d6e8b415d7d7dd294ca;
+
+DoT,request,22/10/2019
+11:5:8:823,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:8:923,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+11:5:9:163,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:207,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:246,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:300,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:340,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:393,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:431,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:475,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:518,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:562,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:614,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:658,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:702,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:747,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:788,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:833,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:876,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:9:921,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:9:966,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:10,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:53,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:97,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:141,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:189,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:231,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:274,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:318,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:364,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:410,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:456,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:500,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:549,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:598,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:642,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:691,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:736,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:794,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:840,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:890,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:10:938,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:10:994,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:49,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:105,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:150,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:200,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:245,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:294,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:342,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:393,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:437,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:487,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:532,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:586,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:631,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:687,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:731,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:788,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:833,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:11:895,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:11:943,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:0,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:45,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:100,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:144,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:200,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:246,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:304,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:349,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:406,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:451,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:508,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:552,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:610,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:655,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:714,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:758,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:819,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:864,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:12:924,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:12:968,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:13:32,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:13:77,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:13:142,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:13:186,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:13:251,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:13:318,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:13:381,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:13:432,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:13:498,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:13:542,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:5:13:609,recelectronicas,e19f01360e8e4d6e8b415d7d7dd294ca,001000000010A,8461050722,10;
+response, 22/10/2019 11:5:13:654,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 11:22:14:272,recelectronicas,WRVqk1DM,,,,;
+response,11:22:14:331,064ac81a9c3c448f9cbd044eadcd8458;
+
+DoT,request,22/10/2019
+11:22:14:338,recelectronicas,064ac81a9c3c448f9cbd044eadcd8458,001000000010A,8461050722,10;
+response, 22/10/2019 11:22:15:952,8461050722,331914,0,Transaccion Aprobada,4115;
+
+GetTResquestID,request,22/10/2019 11:42:8:351,recelectronicas,WRVqk1DM,,,,;
+response,11:42:8:408,a658ff5d54bf456ba8bbc73ae3b653ba;
+
+DoT,request,22/10/2019
+11:42:8:416,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:9:546,8461050722,787221,0,Transaccion Aprobada,4116;
+
+DoT,request,22/10/2019
+11:42:9:800,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:9:850,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:9:887,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:9:931,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:9:974,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:18,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:58,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:103,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:145,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:198,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:244,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:292,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:335,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:387,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:428,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:504,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:549,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:594,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:638,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:10:701,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:10:743,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:106,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:148,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:194,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:237,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:282,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:326,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:371,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:444,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:487,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:536,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:585,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:629,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:674,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:720,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:771,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:820,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:868,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:11:915,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:11:959,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:10,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:64,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:113,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:165,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:215,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:267,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:317,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:362,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:413,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:459,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:512,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:557,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:610,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:657,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:710,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:755,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:809,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:856,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:12:910,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:12:955,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:10,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:55,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:110,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:157,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:214,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:262,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:319,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:363,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:425,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:470,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:529,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:575,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:640,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:689,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:751,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:795,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:859,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:13:904,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:13:967,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:14:11,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:14:77,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:14:124,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:14:192,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:14:237,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:14:305,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:14:349,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:14:418,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:14:466,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:14:535,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:14:580,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:14:649,recelectronicas,a658ff5d54bf456ba8bbc73ae3b653ba,001000000010A,8461050722,10;
+
+GetTResquestID,request,22/10/2019 11:42:40:700,recelectronicas,WRVqk1DM,,,,;
+response,11:42:40:779,8cc12ad84dc1407a80f7d4f912d788de;
+
+DoT,request,22/10/2019
+11:42:40:786,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:40:879,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+11:42:41:110,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:156,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:201,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:246,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:287,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:331,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:380,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:424,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:463,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:507,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:547,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:598,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:639,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:688,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:729,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:773,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:816,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:860,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:902,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:41:945,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:41:991,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:34,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:78,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:124,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:168,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:232,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:281,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:329,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:376,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:419,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:465,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:509,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:557,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:611,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:659,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:716,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:765,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:812,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:865,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:42:912,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:42:964,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:9,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:63,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:106,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:157,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:200,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:256,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:300,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:353,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:398,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:459,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:505,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:560,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:608,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:663,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:709,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:766,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:812,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:868,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:43:935,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:43:993,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:39,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:101,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:148,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:206,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:254,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:315,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:378,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:437,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:484,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:542,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:587,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:649,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:694,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:753,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:797,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:861,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:44:905,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:44:967,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:11,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:45:84,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:127,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:45:196,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:241,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:45:306,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:350,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:45:415,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:474,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:45:541,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:586,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:42:45:652,recelectronicas,8cc12ad84dc1407a80f7d4f912d788de,001000000010A,8461050722,10;
+response, 22/10/2019 11:42:45:696,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 11:44:47:492,recelectronicas,WRVqk1DM,,,,;
+response,11:45:31:63,d52ef1c764ab4770bd44e169be2ffb76;
+
+DoT,request,22/10/2019
+11:46:51:767,recelectronicas,d52ef1c764ab4770bd44e169be2ffb76,001000000010A,8461050722,10;
+response, 22/10/2019 11:48:40:382,,,48,TRequestID_noEncontrado,0;
+
+CheckTransaction,request,22/10/2019 11:50:58:927,recelectronicas,d52ef1c764ab4770bd44e169be2ffb76,,,,;
+response,22/10/2019 11:50:59:71,,,40,ErrorGeneral,0;
+
+GetTResquestID,request,22/10/2019 11:52:5:882,recelectronicas,WRVqk1DM,,,,;
+response,11:52:5:932,190f07994a6c43f9ada2400a1204155d;
+
+DoT,request,22/10/2019
+11:52:5:937,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:7:585,8461050722,571718,0,Transaccion Aprobada,4117;
+
+DoT,request,22/10/2019
+11:52:7:624,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:7:672,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:7:710,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:7:755,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:7:794,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:7:839,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:7:879,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:7:923,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:7:963,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:10,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:49,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:95,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:136,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:184,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:224,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:270,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:311,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:356,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:397,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:442,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:486,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:533,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:575,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:619,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:663,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:711,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:755,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:800,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:842,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:888,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:8:933,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:8:977,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:21,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:66,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:118,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:166,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:213,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:258,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:306,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:377,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:425,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:469,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:518,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:563,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:611,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:659,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:712,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:757,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:806,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:856,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:9:909,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:9:954,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:5,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:50,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:104,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:149,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:201,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:246,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:305,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:353,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:407,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:455,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:513,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:558,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:613,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:658,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:716,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:761,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:817,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:863,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:10:922,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:10:968,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:25,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:70,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:128,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:173,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:231,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:276,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:334,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:381,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:444,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:489,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:553,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:599,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:660,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:705,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:772,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:817,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:11:878,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+response, 22/10/2019 11:52:11:942,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+11:52:12:5,recelectronicas,190f07994a6c43f9ada2400a1204155d,001000000010A,8461050722,10;
+
+GetTResquestID,request,22/10/2019 12:14:11:872,recelectronicas,WRVqk1DM,,,,;
+response,12:14:17:132,9545c206601e4d4e8aa553db717d3403;
+
+DoT,request,22/10/2019
+12:14:17:139,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:18:243,8461050722,531289,0,Transaccion Aprobada,4118;
+
+DoT,request,22/10/2019
+12:14:18:557,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:18:883,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:18:926,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:18:974,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:19:18,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:19:364,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:19:406,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:19:450,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:19:492,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:19:536,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:19:584,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:19:693,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:19:736,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:158,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:205,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:296,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:341,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:385,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:431,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:475,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:521,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:565,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:611,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:655,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:702,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:747,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:795,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:839,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:888,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:20:932,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:20:982,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:21:107,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:21:156,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:21:242,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:21:295,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:21:368,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:21:423,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:21:576,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:21:632,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:21:791,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:21:852,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:27,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:80,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:129,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:182,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:228,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:283,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:328,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:381,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:425,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:479,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:538,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:596,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:643,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:698,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:743,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:797,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:845,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:22:904,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:22:949,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:5,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:50,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:109,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:154,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:213,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:280,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:340,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:403,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:465,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:539,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:601,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:659,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:725,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:769,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:833,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:877,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:23:941,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:23:987,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:53,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:24:99,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:165,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:24:212,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:276,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:24:321,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:384,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:24:429,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:500,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:24:544,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:613,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+response, 22/10/2019 12:14:24:657,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:14:24:722,recelectronicas,9545c206601e4d4e8aa553db717d3403,001000000010A,8461050722,10;
+
+GetTResquestID,request,22/10/2019 12:15:46:604,recelectronicas,WRVqk1DM,,,,;
+response,12:15:46:653,7fbbb2562df744db89923e63538a6584;
+
+DoT,request,22/10/2019
+12:15:46:660,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:46:752,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+12:15:46:987,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:32,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:72,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:142,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:184,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:248,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:287,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:344,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:397,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:451,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:493,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:548,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:592,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:651,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:700,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:756,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:799,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:846,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:889,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:47:937,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:47:982,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:40,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:84,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:130,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:175,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:221,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:267,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:312,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:360,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:505,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:551,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:599,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:646,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:757,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:807,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:852,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:48:900,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:48:948,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:3,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:48,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:99,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:146,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:200,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:246,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:295,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:345,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:399,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:471,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:522,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:570,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:624,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:671,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:724,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:782,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:837,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:883,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:49:937,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:49:982,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:37,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:86,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:144,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:192,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:249,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:295,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:354,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:416,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:474,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:518,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:578,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:623,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:683,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:729,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:794,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:841,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:50:906,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:50:951,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:14,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:59,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:122,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:166,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:231,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:276,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:372,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:423,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:485,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:530,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:594,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:638,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:702,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:747,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:15:51:812,recelectronicas,7fbbb2562df744db89923e63538a6584,001000000010A,8461050722,10;
+response, 22/10/2019 12:15:51:859,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 12:19:31:511,recelectronicas,WRVqk1DM,,,,;
+response,12:19:31:587,f467ae0035384a179f1b13500759baaf;
+
+DoT,request,22/10/2019
+12:19:31:596,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:32:828,8461050722,384329,0,Transaccion Aprobada,4119;
+
+DoT,request,22/10/2019
+12:19:33:101,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:148,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:190,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:240,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:285,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:333,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:376,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:425,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:468,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:513,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:557,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:605,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:648,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:699,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:741,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:789,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:834,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:878,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:33:923,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:33:971,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:37,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:82,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:126,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:173,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:222,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:278,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:325,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:380,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:426,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:488,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:533,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:650,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:703,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:34:892,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:34:946,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:310,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:358,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:418,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:473,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:519,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:570,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:618,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:679,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:726,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:776,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:822,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:881,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:36:928,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:36:981,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:26,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:84,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:129,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:185,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:235,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:292,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:336,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:392,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:438,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:497,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:542,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:600,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:646,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:703,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:748,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:804,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:850,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:37:917,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:37:962,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:38:21,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:38:71,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:38:134,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:38:496,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:38:558,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:38:609,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:38:674,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:38:719,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:38:785,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:38:839,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:38:906,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:38:952,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:39:14,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:39:62,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:39:135,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:39:180,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:39:247,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:39:294,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:39:361,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:39:407,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:39:478,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:39:527,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:19:39:594,recelectronicas,f467ae0035384a179f1b13500759baaf,001000000010A,8461050722,10;
+response, 22/10/2019 12:19:39:639,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+GetTResquestID,request,22/10/2019 12:20:2:18,recelectronicas,WRVqk1DM,,,,;
+response,12:20:2:71,906f96b6e7334a8799ae7f2776301319;
+
+DoT,request,22/10/2019
+12:20:2:78,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:2:433,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+DoT,request,22/10/2019
+12:20:2:680,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:2:738,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:2:787,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:2:835,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:2:873,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:2:921,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:2:964,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:22,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:61,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:109,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:149,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:196,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:241,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:287,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:329,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:388,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:429,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:477,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:519,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:566,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:613,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:674,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:724,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:771,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:817,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:863,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:3:913,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:3:960,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:18,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:71,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:118,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:165,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:229,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:273,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:320,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:396,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:450,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:534,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:584,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:677,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:730,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:804,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:855,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:902,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:4:952,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:4:998,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:5:56,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:5:420,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:5:472,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:5:518,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:5:570,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:5:630,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:5:716,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:6:37,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:6:91,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:6:137,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:6:192,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:6:242,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:6:306,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:6:356,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:6:424,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:6:480,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:6:546,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:6:602,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:6:668,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:8:221,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:8:278,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:10:707,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:10:770,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:10:813,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:10:873,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:10:919,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:10:988,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:32,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:98,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:148,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:210,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:258,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:322,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:367,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:432,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:477,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:546,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:597,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:662,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:709,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:787,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:832,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:11:896,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:11:946,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+DoT,request,22/10/2019
+12:20:12:13,recelectronicas,906f96b6e7334a8799ae7f2776301319,001000000010A,8461050722,10;
+response, 22/10/2019 12:20:12:700,,,45,Se debe solicitar un TRequesID por transaccion.,0;
+
+CheckTransaction,request,22/10/2019 12:20:12:776,recelectronicas,906f96b6e7334a8799ae7f2776301319,,,,;
+response,22/10/2019 12:20:12:827,8461050722,,15,Ya se realizó una recarga de este número. Espere 3 minutos para volver a intentarlo,0;
+
+GetTResquestID,request,22/10/2019 12:24:13:102,recelectronicas,WRVqk1DM,,,,;
+response,12:24:13:164,0b0ed8a5caed408aa661a6ee087e99d9;
+
+DoT,request,22/10/2019
+12:24:13:171,recelectronicas,0b0ed8a5caed408aa661a6ee087e99d9,001000000010A,8461050722,10;
+response, 22/10/2019 12:24:14:799,8461050722,932976,0,Transaccion Aprobada,4120;
+
+GetTResquestID,request,22/10/2019 16:26:7:460,recelectronicas,WRVqk1DM,,,,;
+response,16:26:7:602,7ca5fe5b4b8c4d3a9ba90542f1a87ece;
+
+DoT,request,22/10/2019
+16:26:7:607,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,001000000200A,2241108283,200;
+response, 22/10/2019 16:26:9:246,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:9:310,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:10:888,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:10:895,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:12:464,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:12:471,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:14:58,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:14:64,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:15:654,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:15:661,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:17:246,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:17:252,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:18:824,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:18:829,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:20:386,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:20:392,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:21:980,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:21:986,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:23:561,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:23:566,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:25:141,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:25:148,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:26:750,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:26:755,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:28:344,2241108283,,2,EN_PROCESO,4122;
+
+CheckTransaction,request,22/10/2019 16:26:28:352,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:29:407,2241108283,,1,PENDIENTE,4122;
+
+CheckTransaction,request,22/10/2019 16:26:29:413,recelectronicas,7ca5fe5b4b8c4d3a9ba90542f1a87ece,,,,;
+response,22/10/2019 16:26:29:418,2241108283,004122,1,PENDIENTE,4122;
+
+GetTResquestID,request,22/10/2019 16:28:53:906,recelectronicas,WRVqk1DM,,,,;
+response,16:28:54:50,e04b754da5734bd599e1eb3c393abee1;
+
+DoT,request,22/10/2019
+16:28:54:55,recelectronicas,e04b754da5734bd599e1eb3c393abee1,001000000010A,2727197460,10;
+response, 22/10/2019 16:28:55:677,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:28:55:684,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:28:57:291,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:28:57:298,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:28:58:852,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:28:58:857,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:0:431,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:0:437,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:2:9,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:2:15,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:3:627,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:3:633,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:5:196,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:5:201,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:6:943,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:6:948,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:8:540,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:8:545,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:10:149,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:10:154,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:11:713,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:11:718,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:13:292,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:13:297,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:14:871,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:14:879,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:16:466,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:16:471,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:18:42,2727197460,,2,EN_PROCESO,4123;
+
+CheckTransaction,request,22/10/2019 16:29:18:48,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:18:100,2727197460,,1,PENDIENTE,4123;
+
+CheckTransaction,request,22/10/2019 16:29:18:105,recelectronicas,e04b754da5734bd599e1eb3c393abee1,,,,;
+response,22/10/2019 16:29:18:110,2727197460,004123,1,PENDIENTE,4123;
+
+GetTResquestID,request,22/10/2019 16:30:0:238,recelectronicas,WRVqk1DM,,,,;
+response,16:30:0:383,a0a7373fcd874b8fb8eadabf07569e78;
+
+DoT,request,22/10/2019
+16:30:0:392,recelectronicas,a0a7373fcd874b8fb8eadabf07569e78,001000000010A,8461050722,10;
+response, 22/10/2019 16:30:1:989,8461050722,272938,0,Transaccion Aprobada,4124;
+
+GetTResquestID,request,22/10/2019 17:11:0:316,recelectronicas,WRVqk1DM,,,,;
+response,17:11:0:485,5ec2870f68e24842ab738c1781c9bc98;
+
+DoT,request,22/10/2019
+17:11:0:492,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,001000000010A,1111111111,10;
+response, 22/10/2019 17:11:2:197,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:2:522,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:4:161,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:4:169,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:5:750,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:5:758,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:7:344,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:7:355,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:8:922,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:8:927,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:10:485,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:10:492,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:12:81,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:12:86,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:13:674,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:13:680,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:15:238,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:15:244,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:16:801,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:16:808,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:18:395,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:18:401,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:19:974,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:19:979,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:21:932,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:21:938,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:23:605,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:23:611,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:25:161,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:25:167,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:26:774,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:26:781,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:28:366,1111111111,,2,EN_PROCESO,4125;
+
+CheckTransaction,request,22/10/2019 17:11:28:371,recelectronicas,5ec2870f68e24842ab738c1781c9bc98,,,,;
+response,22/10/2019 17:11:28:432,1111111111,375800,0,Transaccion Aprobada,4125;
+
+GetTResquestID,request,22/10/2019 17:27:44:555,recelectronicas,WRVqk1DM,,,,;
+response,17:27:44:726,962be964e86e498bbd56177d296087bf;
+
+DoT,request,22/10/2019
+17:27:44:731,recelectronicas,962be964e86e498bbd56177d296087bf,001000000010A,1111111111,10;
+response, 22/10/2019 17:27:46:341,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:46:349,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:47:919,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:47:925,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:49:498,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:49:503,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:51:118,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:51:123,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:52:686,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:52:693,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:54:279,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:54:284,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:55:868,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:55:874,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:57:462,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:57:470,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:27:59:72,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:27:59:78,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:0:666,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:0:671,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:2:230,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:2:236,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:3:826,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:3:831,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:5:419,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:5:425,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:6:981,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:6:986,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:8:575,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:8:581,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:10:153,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:10:158,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:11:747,1111111111,,2,EN_PROCESO,4126;
+
+CheckTransaction,request,22/10/2019 17:28:11:752,recelectronicas,962be964e86e498bbd56177d296087bf,,,,;
+response,22/10/2019 17:28:13:341,1111111111,092322,0,Transaccion Aprobada,4126;

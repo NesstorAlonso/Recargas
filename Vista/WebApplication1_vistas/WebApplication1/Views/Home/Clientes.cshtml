@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+    <div class="container">
+        <div class="block-header">
+            <h2><strong>Clientes</strong></h2>
+        </div>
+        <div class="card">
+            <div class="body">
+                <form class="form-inline mr-auto">
+                    <input class="form-control" type="text" placeholder="Buscar" aria-label="Search">
+                    <button class="btn btn-mdb-color btn-rounded btn-sm my-0 ml-sm-2" type="submit">Buscar <i class="zmdi zmdi-search"></i></button>
+                </form>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="body">
+                <div class="row clearfix">
+                    <div class="table-responsive col-lg-12">
+                        <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th>Resultados de la busqueda</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Sin registros por mostrar</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#defaultModal" data-toggle="modal" data-target="#modalCliente">
+            <button class="btn btn-mdb-color btn-rounded btn-sm my-0 ml-sm-2" type="submit">Agregar cliente <i class="zmdi zmdi-plus"></i></button>
+            </a>
+    </div>

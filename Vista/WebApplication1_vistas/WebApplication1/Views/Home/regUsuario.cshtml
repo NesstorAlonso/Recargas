@@ -1,0 +1,136 @@
+﻿
+@{
+    ViewData["Title"] = "Registrar usuario";
+}
+<script type="text" src="~/js/peticionesClienteUsuario.js"></script>
+
+
+
+<div class="container">
+    <div class="block-header">
+        <h2><strong>Registrar</strong> usuario</h2>
+    </div>
+  
+        <div class="card">
+            <div class="body">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Nombre de usuario: *</p>
+                        <div class="form-group">
+                            <input id="txtNombre" type="text" class="form-control" placeholder="Usuario" minlength="4" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Apellido paterno: *</p>
+                        <div class="form-group">
+                            <input id="txtApp" type="text" class="form-control" placeholder="Apellido paterno" minlength="4">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Apellido materno: *</p>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Apellido materno" minlength="4" id="txtApm" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Contraseña: </p>
+                        <div class="form-group">
+                            <input type="password" class="form-control" placeholder="Clave de acceso" minlength="8" id="txtContrasena" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Correo electrónico: *</p>
+                        <div class="form-group form-float">
+                            <input type="email" class="form-control" placeholder="ejemplo@mail.com" id="txtMail" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="form-group form-float">
+                            <p class="my-2">Número de celular: *</p>
+                            <input type="text" minlength="14" id="txtTelefono" oncopy="return false" onpaste="return false" class="input-group-addon" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Tipo de usuario: </p>
+                        <div class="form-group">
+                            <select class="form-control show-tick" id="txtTipoUsuario" required>
+                                <option value=""></option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Perfil: </p>
+                        <div class="form-group">
+                            <select class="form-control show-tick" id="txtPerfil" required>
+                                <option value=""></option>
+                            </select>
+                        </div>
+                    </div>                 
+                       
+                                        <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Fecha de nacimiento*</p>
+                        <div class="form-group form-float">
+                            <input type="date" class="form-control" placeholder="" id="dtmFechaNac" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Genéro*</p>
+                        <div class="form-group form-float">
+                            <select class="form-control show-tick" id="bitSexo" required>
+                                <option value="FALSE">Masculino</option>
+                                <option value="TRUE">Femenino</option>
+                            </select>
+                            @*<input type="text" class="form-control" placeholder="" id="bitSexo" required>*@
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Persona fiscal:*</p>
+                        <div class="form-group form-float">
+                            <select class="form-control show-tick" id="bitPersonaFiscal" required>
+                                <option value="TRUE">Persona Fisica</option>
+                                <option value="FALSE">Persona Moral</option>
+                            </select>
+                            @*<input type="text" class="form-control" placeholder="" id="bitPersonaFiscal" required>*@
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">RFC: *</p>
+                        <div class="form-group form-float">
+                            <input type="text" class="form-control" placeholder="AAAA000000AA0" id="rfc" name="rfc" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Nombre / Punto de venta: </p>
+                        <div class="form-group">
+                            <select class="form-control show-tick" id="NomPuntoV" required>
+                                <option value="0">Ninguno</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="my-2">Distribuidor: </p>
+                        <div class="form-group">
+                            <select class="form-control show-tick" id="NumDistribuidor" required>
+                                <option value="0">Ninguno</option>
+                                <option value="0">Ninguno</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-5 col-md-5">
+                        <button class="btn btn-success btn-round" id="btnGuardarUsuario">Guardar cambios <i class="zmdi zmdi-floppy"></i> </button>
+                    </div>
+                    <div class="col-lg-5 col-md-5">
+                        <button class="btn btn-danger btn-round" id="btnCancelar">
+                            Cancelar <i class="zmdi zmdi-close"></i>
+                        </button>
+                    </div>
+                    <div class="col-lg-2 col-md-2">
+                        <a asp-area="" asp-controller="Home" asp-action="Usuarios">
+                            <button class="btn btn-dark btn-round" id="btnRegresar">Regresar <i class="zmdi zmdi-replay"></i></button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>

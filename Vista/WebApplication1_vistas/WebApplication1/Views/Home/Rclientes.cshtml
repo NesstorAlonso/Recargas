@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewData["Title"] = "Reportes de clientes";
+}
+
+    <div class="container">
+        <div class="col-lg-8 col-md-8 col-sm-12">
+            <h2>Reportes de ventas por clientes</h2>
+        </div>
+
+        <div class="row">
+            <div class="card">
+
+                <div class="col-lg-12 col-md-12">
+                    <div class="form-group col-lg-12 col-md-12">
+                                                                <div class="body">
+                                                                    <p class="my-2">Texto a buscar: </p>
+                                                                    <input class="form-control" type="text" aria-label="Buscar">
+                                                                    <div class="radio inlineblock my-2 col-lg-3 col-md-12">
+                                                                        <p>Buscar por: </p>
+                                                                        <input type="radio" name="tUsu" id="bCli" class="with-gap" value="option1">
+                                                                        <label for="bCli">Cliente</label>
+                                                                    </div>
+                                                                    <div class="radio inlineblock col-lg-3 col-md-12">
+                                                                        <input type="radio" name="tUsu" id="bUsu" class="with-gap" value="option2" checked="">
+                                                                        <label for="bUsu">Usuario</label>
+                                                                    </div>
+                                                                    <div class="form-group">
+                                                                        <div class="checkbox">
+                                                                            <input id="checkbox_ht" type="checkbox" class="form-control">
+                                                                            <label for="checkbox_ht">Hoja de transacciones</label>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="form-group">
+                                                                        <div class="checkbox">
+                                                                            <input id="checkbox_cb" type="checkbox" class="form-control">
+                                                                            <label for="checkbox_cb">Incluir clientes indirectos en la busqueda</label>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <p class="my-2">Cantidad de registros a mostrar: </p>
+                                                                    <select class="form-control show-tick">
+
+                                                                        <option value="r10">10</option>
+                                                                        <option value="r15">15</option>
+                                                                        <option value="r20">20</option>
+                                                                        <option value="r25">25</option>
+                                                                        <option value="r50">50</option>
+                                                                        <option value="r75">75</option>
+                                                                        <option value="r100">100</option>
+                                                                    </select>
+
+                                                                    <div class="col-lg-12 col-md-12">
+                                                                        <p class="my-2">Fecha: </p>
+
+                                                                        <div class="input-group">
+                                                                            <span class="input-group-addon"><i class="zmdi zmdi-calendar"></i> </span>
+                                                                            <input type="date" name="fechaRC" class="form-control">
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <button class="btn btn-mdb-color btn-rounded btn-sm my-2 ml-sm-2" type="submit">Buscar <i class="zmdi zmdi-search"></i></button>
+                                                                </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="body">
+                        <div class="row clearfix">
+                            <div class="table-responsive col-lg-12">
+                                <table class="center table table-bordered table-striped table-hover js-basic-example dataTable" align="center">
+                                    <thead class="thead-dark">
+                                        <tr>
+                                            <th>Id Cliente</th>
+                                            <th>Cliente</th>
+                                            <th>Usuario</th>
+                                            <th>Correo</th>
+                                            <th>Telefono</th>
+                                            <th>Proveedor</th>
+                                            <th>Accion</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>01</td>
+                                            <td>Prueba</td>
+                                            <td> </td>
+                                            <td>correo@hotmail.com</td>
+                                            <td>1234567890</td>
+                                            <td> Telcel </td>
+                                            <td><button class="btn btn-mdb-color btn-rounded btn-sm my-2 ml-sm-2" type="submit">Editar <i class="zmdi zmdi-edit"></i></button>
+                                                <button class="btn btn-mdb-color btn-rounded btn-sm my-2 ml-sm-2" type="submit">Reporte en Excel <i class="zmdi zmdi-file-text"></i></button></td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+
+
+            </div>
+        </div>
+    </div>

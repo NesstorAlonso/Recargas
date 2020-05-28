@@ -1,0 +1,90 @@
+﻿
+@{
+        Layout = "~/Views/Shared/_LayoutLogout.cshtml";
+    ViewData["Title"] = "Activacion";
+}
+
+<!doctype html>
+<html class="no-js " lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+
+    <title>Activacion de email</title>
+    <!-- Favicon-->
+    <link rel="icon" href="~/assets/images/LogoRE.png" type="image/x-icon">
+    <link rel="stylesheet" href="~/assets/css/color_skins.css">
+
+    <!-- Custom Css -->
+    <link rel="stylesheet" href="~/assets/css/main.css">
+    <link href="~/assets/plugins/sweetalert/sweetalert2.min.css" rel="stylesheet" />
+    <link href="~/css/Loader.css" />
+</head>
+<body class="theme-black">
+    <div class="authentication">
+        <div class="container">
+            <div class="col-md-12 content-center">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="company_detail">
+                            <p>
+                                <h6 class="logo"><img style="float:left; margin:10;" src="~/assets/images/LogoRE.png">&nbspRecargas<br>&nbspElectronicas.Org</h6>
+                            </p>
+                            <h3>Recargas <strong>electronicas</strong>.org</h3>
+                            <p>Recarga de tiempo aire y pagos de servicios.</p>
+                            <div class="footer">
+                                <ul class="social_link list-unstyled">                                 
+                                    <li><a href="https://www.facebook.com/recargas.electronicas.com.mx/" title="Facebook"><i class="zmdi zmdi-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/recargascelular" title="Twitter"><i class="zmdi zmdi-twitter"></i></a></li>                                   
+                                    <li><a href="https://www.instagram.com/recargascelular/" title="Behance"><i class="zmdi zmdi-instagram"></i></a></li>
+                                </ul>
+                                <hr>
+                                <ul>
+                                    <li><a href="javascript:void(0);">Contactanos</a></li>
+                                    <li><a href="javascript:void(0);">Acerca de nosotros</a></li>                                   
+                                    <li><a href="javascript:void(0);">FAQ</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-12 offset-lg-1">
+                        <div class="card-plain">
+                            <div class="header">
+                                <h5>Gracias por su registro</h5>
+                            </div>
+                            <p>Se ha enviado un correo
+                            de confirmacion, porfavor verifique su bandeja de entrada.</p>                        
+                          
+                            <div class="footer">
+                                @*<a href="Inicio" class="btn btn-primary btn-round btn-block">SIGN IN</a>*@
+                                <button type="submit" id="Artiva" class="btn btn-success btn-round btn-block" tabindex="3">Enviar correo nuevamente</button>
+                                @*<a asp-controller="Home" asp-action="Registro" class="btn btn-primary btn-simple btn-round btn-block">Registrarse</a>*@
+                            </div>              
+                            
+
+                            <div class="loader"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery Core Js -->
+    <script src="~/assets/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets/bundles/vendorscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js -->    
+    <script src="~/assets/plugins/sweetalert/sweetalert2.min.js"></script>
+  
+    <script type="text/javascript">
+        $(window).load(function () {
+            $(".loader").fadeOut("slow");
+        });
+    </script>
+
+
+</body>
+</html>
+
+

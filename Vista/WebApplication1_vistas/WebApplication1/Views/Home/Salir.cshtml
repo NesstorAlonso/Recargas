@@ -1,0 +1,144 @@
+﻿
+@{
+    Layout = null;
+    ViewData["Title"] = "Salir";
+}
+
+<!doctype html>
+<html class="no-js " lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+
+    <title>Iniciar sesion</title>
+    <!-- Favicon-->
+    <link rel="icon" href="~/assets/images/LogoRE.png" type="image/x-icon">
+    <link rel="stylesheet" href="~/assets/plugins/bootstrap/css/bootstrap.min.css">
+
+    <!-- Custom Css -->
+   
+    <link rel="stylesheet" href="~/assets/css/main.css">
+
+    @*<link rel="stylesheet" href="~/assets/css/color_skins.css">*@
+    <link href="~/assets/plugins/sweetalert/sweetalert2.min.css" rel="stylesheet" />
+    <link href="~/css/Loader.css" />
+</head>
+<body class="theme-black">
+    <div class="authentication" id="imgB">
+        @*  *@
+        @*<ul class="cb-slideshow">
+                <li>
+                    <span>Img1</span>
+                    <div>
+
+                    </div>
+                </li>
+                <li>
+                    <span>Img2</span>
+                    <div>
+
+                    </div>
+                </li>
+                <li>
+                    <span>Img3</span>
+                    <div>
+
+                    </div>
+                </li>
+                <li>
+                    <span>Img4</span>
+                    <div>
+
+                    </div>
+                </li>
+                <li>
+                    <span>Img3</span>
+                    <div>
+
+                    </div>
+                </li>
+                <li>
+                    <span>Img2</span>
+                    <div>
+
+                    </div>
+                </li>
+            </ul>*@
+        @*  *@
+        <div class="container">
+            <div class="col-md-12 content-center">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="card-plain">
+                            <div class="header">
+                                <h5>Iniciar Sesion</h5>
+                            </div>
+
+                            <div class="input-group">
+                                <input type="text" class="form-control focusNext" id="Correo" tabindex="1" placeholder="Usuario">
+                                <span class="input-group-addon"><i class="zmdi zmdi-account-circle"></i></span>
+                            </div>
+                            <div class="input-group">
+                                <input type="password" id="Contrasena" placeholder="Contraseña" tabindex="2" class="form-control focusNext" />
+                                <span class="input-group-addon"><i class="zmdi zmdi-lock"></i></span>
+                            </div>
+
+                            <div style="display: none;">
+                                <b>Rol:</b>
+                                <div class="input-group">
+                                    <select id="InsertarRol">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="footer">
+                                @*<a href="Inicio" class="btn btn-primary btn-round btn-block">SIGN IN</a>*@
+                                <button type="submit" id="InicioSe" class="btn btn-primary btn-round btn-block" tabindex="3">Iniciar sesion</button>
+                                @*<a asp-controller="Home" asp-action="Registro" class="btn btn-primary btn-simple btn-round btn-block">Registrarse</a>*@
+                            </div>
+                            <a href="https://www.recargacelulares.com.mx/Home/OlvidoCont" class="link">Olvido su contrseña?</a>
+                            @*<a href="#" class="link">Olvido su contrseña?</a>*@
+                            <div id="divError" class="alert alert-danger collapse">
+                                <a id="linkClose" href="#" class="close">&times;</a>
+                                <div id="divErrorText"></div>
+                            </div>
+
+                            <div class="loader"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- Jquery Core Js -->
+    <script src="~/assets/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets/bundles/vendorscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js -->
+    <script src="~/js/Validacion.js"></script>
+    <script src="~/assets/plugins/sweetalert/sweetalert2.min.js"></script>
+
+    <script type="text/javascript">
+        $(window).load(function () {
+            $(".loader").fadeOut("slow");
+        });
+    </script>
+    <script>
+        window.onload = function () {
+            var backImg = ['../assets/images/Img1.jpg', '../assets/images/Img2.jpg', '../assets/images/Img3.jpg', '../assets/images/Img4.jpeg', '../assets/images/Img5.jpg', '../assets/images/Img6.jpg', '../assets/images/Img7.jpg'];
+            var today = new Date();
+            var day = Math.floor(today / 8.64e7);
+            document.getElementById('imgB').style.backgroundImage = 'url(' + backImg[day % 7] + ')';
+
+            console.log(backImg);
+
+        }
+    </script>
+
+
+</body>
+</html>

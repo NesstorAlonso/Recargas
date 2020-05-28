@@ -1,0 +1,7 @@
+
+GetTResquestID,request,8/10/2019 15:6:31:434,recelectronicas,WRVqk1DM,,,,;
+response,15:6:31:500,aa99805a25924ee783edec29f940a203;
+
+DoT,request,8/10/2019
+15:6:31:569,recelectronicas,aa99805a25924ee783edec29f940a203,002000000020A,8461050722,20;
+response, 8/10/2019 15:6:32:840,8461050722,894207,0,Transaccion Aprobada,3003;

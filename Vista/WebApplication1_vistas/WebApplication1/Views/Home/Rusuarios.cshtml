@@ -1,0 +1,214 @@
+﻿
+@{
+    ViewData["Title"] = "Reportes de usuarios";
+}
+    <div class="row">
+        <div class="card">
+
+            <div class="col-lg-12 col-md-12">
+                <div class="form-group col-lg-12 col-md-12">
+                    <div class="block-header">
+                        <h2><strong>Reporte</strong> de Usuarios</h2>
+                    </div>
+                    @*<div class="card">
+                        <div class="body">
+                            <div class="row clearfix">
+                                <div class="col-lg-4 col-md-12">
+                                    <div class="form-group">
+                                        <div class="checkbox">
+                                            <input id="checkbox_exi" type="checkbox" class="form-control">
+                                            <label for="checkbox_exi">Exito</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12">
+                                    <div class="form-group">
+                                        <div class="checkbox">
+                                            <input id="checkbox_fra" type="checkbox" class="form-control">
+                                            <label for="checkbox_fra">Fracaso</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12">
+                                    <div class="form-group">
+                                        <div class="checkbox">
+                                            <input id="checkbox_pen" type="checkbox" class="form-control">
+                                            <label for="checkbox_pen">Pendiente</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>*@
+                    @*codigo nuevo.*@
+                    @*<div class="card">
+                    <div class="body">
+                        <div class="row clearfix">
+                            <div class="table-responsive col-lg-12">
+
+                                <table class="table table-bordered align-center" id="tbUsuario2">
+                                    <thead class="thead-dark" align="center">
+                                        <tr>
+                                            <th>ID Usuario</th>
+                                            <th>Nombre</th>
+
+                                            <th>Correo</th>
+                                            <th>Punto de venta</th>
+
+
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>*@
+
+
+
+                    @*termina codigo.*@
+
+                    @*codigo nuevo.*@
+                    <div class="card">
+                        <div class="body">
+                            <div class="row clearfix">
+                                <div class="table-responsive col-lg-12">
+                                    <button class="btn btn-default pull-right add-row" id="descExcelConciliacion">&nbsp;&nbsp; Descargar reporte <i class="zmdi zmdi-file-text"></i></button>
+                                    <table class="table table-bordered align-center" id="tbCarrier">
+                                        <thead class="thead-dark" align="center">
+                                            <tr>
+                                                <th>No. de Conciliacion</th>
+                                                <th>Concepto</th>
+                                                <th>Monto</th>
+                                                <th>Numero ó referencia</th>
+                                                <th>Fecha</th>
+                                                <th>Autorización</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        @*termina codigo.*@
+
+
+                        @*<div class="body">
+                                            <p class="my-2">Buscar referencia que empiece con: </p>
+                                            <input class="form-control my-2" type="text" placeholder="Texto a buscar" aria-label="Buscar">
+
+
+
+                                            <p class="my-2">Operador / Servicio / Pin electrónico: </p>
+                                            <select class="form-control show-tick my-2">
+
+                                                <option value="tlc">Telcel</option>
+                                                <option value="xli">Xbox Live</option>
+                                                <option value="infona">INFONAVIT</option>
+                                                <option value="cfe">CFE</option>
+                                                <option value="at&t">AT&T</option>
+                                            </select>
+                                            <p class="my-2">Usuario: </p>
+                                            <select class="form-control show-tick my-2">
+
+                                                <option value="pru">Prueba</option>
+                                            </select>
+                                            <p class="my-2">Cantidad de registros a mostrar: </p>
+                                            <select class="form-control show-tick my-2">
+
+                                                <option value="r10">10</option>
+                                                <option value="r15">15</option>
+                                                <option value="r20">20</option>
+                                                <option value="r25">25</option>
+                                                <option value="r50">50</option>
+                                                <option value="r75">75</option>
+                                                <option value="r100">100</option>
+                                            </select>
+
+                                            <div class="col-lg-12 col-md-12">
+                                                <p class="my-2">Fecha: </p>
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><i class="zmdi zmdi-calendar"></i> </span>
+                                                    <input type="date" name="fechaRU" class="form-control">
+                                                </div>
+
+                                            </div>
+
+                                            <button class="btn btn-mdb-color btn-rounded btn-sm my-4 ml-sm-2" type="submit">Aceptar <i class="zmdi zmdi-check"></i></button>
+                                        </div>
+                                    </div>
+                                    </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="body">
+                                    <div class="row clearfix">
+                                        <div class="table-responsive col-lg-12">
+                                            <table class="center table table-bordered table-striped table-hover js-basic-example dataTable" align="center">
+                                                <thead class="thead-dark">
+                                                    <tr>
+                                                        <th>Sin registros que mostrar</th>
+
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+
+                                                            <button class="btn btn-mdb-color btn-rounded btn-sm my-2 ml-sm-2" type="submit">Reporte en Excel <i class="zmdi zmdi-file-text"></i></button>
+                                                        </td>
+                                                    </tr>
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="body">
+                                    <div class="row clearfix">
+                                        <div class="table-responsive col-lg-12">
+                                            <table class="center table table-bordered table-striped table-hover js-basic-example dataTable" align="center">
+                                                <thead class="thead-dark">
+                                                    <tr>
+                                                        <th>Tabla de ventas por usuario vacia</th>
+
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+
+                                                           <button class="btn btn-mdb-color btn-rounded btn-sm my-2 ml-sm-2" type="submit">Reporte en Excel <i class="zmdi zmdi-file-text"></i></button>
+                                                        </td>
+                                                    </tr>
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>*@

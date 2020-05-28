@@ -1,0 +1,225 @@
+﻿
+@{
+    ViewData["Title"] = "TiempoAire";
+}
+
+<div class="card pin" id="checkbox-container">
+    <div class="header">
+        <ul class="header-dropdown">
+            <li class="dropdown">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <i class="zmdi zmdi-settings"></i> </a>
+                <ul class="dropdown-menu dropdown-menu-right">
+                    @*<li><a href="javascript:void(0);"></a></li>*@
+                    <li>
+                        @*<input type="checkbox" id="Pin">Activar Nip*@
+                        <a>
+                            <input type="checkbox" id="Pin" name="acepto" checked>
+                            <label for="Pin"><span></span>Activar Nip</label>
+                        </a>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!--Telcel-->
+<div class="row clearfix">
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalTelcel">
+                    <img src="~/assets/images/companias/telcel.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+    <!--movistar-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalMovi1">
+                    <img src="~/assets/images/companias/movistar.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--unefon-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalUne">
+                    <img src="~/assets/images/companias/unefon.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--flash mobile-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalFM">
+                    <img src="~/assets/images/companias/flashmobile.png" alt="Suscripcion 1" class="img-fluid mx-auto"><!-- FLASH MOBILE-->
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--att-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalAtt">
+                    <img src="~/assets/images/companias/Nextel.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--oui-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalOui">
+                    <img src="~/assets/images/companias/oui.png" alt="Suscripcion 1" class="img-fluid mx-auto"><!-- FLASH MOBILE-->
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--tuenti-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalTuenti">
+                    <img src="~/assets/images/companias/tuenti.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--virgin-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalVirgin">
+                    <img src="~/assets/images/companias/virgin.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--maztiempo-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalMt">
+                    <img src="~/assets/images/companias/maztiempo.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--cierto-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalCierto">
+                    <img src="~/assets/images/companias/recargacierto2.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--weex-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalWeex">
+                    <img src="~/assets/images/companias/weex.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--simpati-->
+    <div class="col-lg-4 col-md-12">
+        <div class="card">
+            <div class="body">
+                <a href="#defaultModal" data-toggle="modal" data-target="#defaultModalSim">
+                    <img src="~/assets/images/companias/simpati.png" alt="Suscripcion 1" class="img-fluid mx-auto">
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<table id="basic-table" style="display: none;">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Email</th>
+            <th>Country</th>
+            <th>IP-address</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="right">1</td>
+            <td>Donna</td>
+            <td>Moore</td>
+            <td>dmoore0@furl.net</td>
+            <td>China</td>
+            <td>211.56.242.221</td>
+        </tr>
+        <tr>
+            <td align="right">2</td>
+            <td>Janice</td>
+            <td>Henry</td>
+            <td>jhenry1@theatlantic.com</td>
+            <td>Ukraine</td>
+            <td>38.36.7.199</td>
+        </tr>
+        <tr>
+            <td align="right">3</td>
+            <td>Ruth</td>
+            <td>Wells</td>
+            <td>rwells2@constantcontact.com</td>
+            <td>Trinidad and Tobago</td>
+            <td>19.162.133.184</td>
+        </tr>
+        <tr>
+            <td align="right">4</td>
+            <td>Jason</td>
+            <td>Ray</td>
+            <td>jray3@psu.edu</td>
+            <td>Brazil</td>
+            <td>10.68.11.42</td>
+        </tr>
+        <tr>
+            <td align="right">5</td>
+            <td>Jane</td>
+            <td>Stephens</td>
+            <td>jstephens4@go.com</td>
+            <td>United States</td>
+            <td>47.32.129.71</td>
+        </tr>
+        <tr>
+            <td align="right">6</td>
+            <td>Adam</td>
+            <td>Nichols</td>
+            <td>anichols5@com.com</td>
+            <td>Canada</td>
+            <td>18.186.38.37</td>
+        </tr>
+    </tbody>
+</table>

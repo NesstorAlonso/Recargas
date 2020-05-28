@@ -1,0 +1,35 @@
+
+GetTResquestID,request,8/10/2019 15:37:23:770,recelectronicas,WRVqk1DM,,,,;
+response,15:37:23:849,5dfbf7d378b14758ac40130df6557cc3;
+
+DoT,request,8/10/2019
+15:37:23:913,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,004000000050A,6521035241,50;
+response, 8/10/2019 15:37:25:530,6521035241,,2,EN_PROCESO,3008;
+
+CheckTransaction,request,8/10/2019 15:37:25:534,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+response,8/10/2019 15:37:27:94,6521035241,,2,EN_PROCESO,3008;
+
+CheckTransaction,request,8/10/2019 15:37:27:96,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+response,8/10/2019 15:37:29:504,6521035241,,2,EN_PROCESO,3008;
+
+CheckTransaction,request,8/10/2019 15:37:29:507,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+response,8/10/2019 15:37:41:287,6521035241,,2,EN_PROCESO,3008;
+
+CheckTransaction,request,8/10/2019 15:37:41:288,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+CheckTransaction,response,8/10/2019 15:37:51:289,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,8/10/2019 15:37:51:290,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+CheckTransaction,response,8/10/2019 15:38:1:296,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,8/10/2019 15:38:1:300,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+CheckTransaction,response,8/10/2019 15:38:11:326,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,8/10/2019 15:38:11:327,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+CheckTransaction,response,8/10/2019 15:38:21:329,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,8/10/2019 15:38:21:332,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+CheckTransaction,response,8/10/2019 15:38:31:348,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,8/10/2019 15:38:31:351,recelectronicas,5dfbf7d378b14758ac40130df6557cc3,,,,;
+response,8/10/2019 15:38:31:353,6521035241,3008,99,El tiempo de espera para la transaccion ha expirado,
+La transaccion: 5dfbf7d378b14758ac40130df6557cc3 Agoto el tiempo de espera en el servidor;

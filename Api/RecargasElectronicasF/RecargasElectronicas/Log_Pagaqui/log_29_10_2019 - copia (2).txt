@@ -1,0 +1,51 @@
+
+GetTResquestID,request,29/10/2019 13:37:54:414,recelectronicas,WRVqk1DM,,,,;
+response,13:37:54:464,22e0167000464c38be5db75a0b0659a2;
+
+DoT,request,29/10/2019
+13:37:54:468,recelectronicas,22e0167000464c38be5db75a0b0659a2,040PQ0S10INF0A,2412017413,1500;
+response, 29/10/2019 13:37:56:67,2412017413,,2,EN_PROCESO,2061851891;
+
+CheckTransaction,request,29/10/2019 13:37:56:73,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+response,29/10/2019 13:37:57:629,2412017413,,2,EN_PROCESO,2061851891;
+
+CheckTransaction,request,29/10/2019 13:37:57:634,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+response,29/10/2019 13:37:59:223,2412017413,,2,EN_PROCESO,2061851891;
+
+CheckTransaction,request,29/10/2019 13:37:59:228,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+response,29/10/2019 13:38:0:786,2412017413,,2,EN_PROCESO,2061851891;
+
+CheckTransaction,request,29/10/2019 13:38:0:791,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+response,29/10/2019 13:38:2:380,2412017413,,2,EN_PROCESO,2061851891;
+
+CheckTransaction,request,29/10/2019 13:38:2:384,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+response,29/10/2019 13:38:3:973,2412017413,,2,EN_PROCESO,2061851891;
+
+CheckTransaction,request,29/10/2019 13:38:3:979,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+CheckTransaction,response,29/10/2019 13:38:13:984,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 13:38:13:988,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+CheckTransaction,response,29/10/2019 13:38:23:995,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 13:38:24:2,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+CheckTransaction,response,29/10/2019 13:38:34:10,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 13:38:34:15,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+CheckTransaction,response,29/10/2019 13:38:44:26,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 13:38:44:30,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+CheckTransaction,response,29/10/2019 13:38:54:37,Excedió el tiempo de espera de la operación;
+
+CheckTransaction,request,29/10/2019 13:38:54:42,recelectronicas,22e0167000464c38be5db75a0b0659a2,,,,;
+response,29/10/2019 13:38:54:47,2412017413,2061851891,99,El tiempo de espera para la transaccion ha expirado,
+La transaccion: 22e0167000464c38be5db75a0b0659a2 Agoto el tiempo de espera en el servidor;
+
+GetTResquestID,request,29/10/2019 13:43:55:38,recelectronicas,WRVqk1DM,,,,;
+response,13:43:55:94,81213a56e5654db2a1e08ab485198593;
+
+DoT,request,29/10/2019
+13:43:55:99,recelectronicas,81213a56e5654db2a1e08ab485198593,010PQ0S10TLX0A,5525916096,500;
+response, 29/10/2019 13:43:56:713,5525916096,851892,1,FRACASO,2061851892;
+
+CheckTransaction,request,29/10/2019 13:43:56:720,recelectronicas,81213a56e5654db2a1e08ab485198593,,,,;
+response,29/10/2019 13:43:56:763,5525916096,851892,1,FRACASO,2061851892;
